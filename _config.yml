@@ -21,9 +21,7 @@
 title: Cowtown Cookbook
 email: sean.bates@comcast.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a site where Sean and Lindsay are keeping their favorite recipes
 baseurl: "cookbook" # the subpath of your site, e.g. /blog
 url: "https://sfb1996.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sfb1996
@@ -31,7 +29,6 @@ github_username:  sfb1996
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-relative-links
 relative_links:
   enabled: true
