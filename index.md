@@ -1,7 +1,11 @@
-# Bates Cowntown Cookbook
-All of Sean and Linday's favorite recipes!
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-## Recipes
+layout: home
+---
+
+# Recipes
 - Chicken and rice
 - Corn chowder
 - Lasagna soup
