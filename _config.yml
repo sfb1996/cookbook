@@ -27,8 +27,9 @@ url: "https://sfb1996.github.io" # the base hostname & protocol for your site, e
 github_username:  sfb1996
 
 # Build settings
-theme: Cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-relative-links
 relative_links:
   enabled: true
