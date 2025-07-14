@@ -44,6 +44,12 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+header_pages:
+  - index.md
+  - about.md
+  - meals.md
+  - desserts.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

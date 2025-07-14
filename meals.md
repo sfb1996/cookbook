@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Meals
-permalink: /meals/
 ---
 # Recipes
 - Chicken and rice

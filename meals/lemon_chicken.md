@@ -1,8 +1,12 @@
-# Lemon Chicken and Rice Casserole
-
+--
+title: Lemon Chicken and Rice Casserole
+--
 *Prep Time*: 10 mins
+
 *Cook Time*: 50 mins
+
 *Total Time*: 1 hr
+
 *Servings*: 4
 
 ## Ingredients
