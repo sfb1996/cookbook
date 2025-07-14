@@ -1,5 +1,6 @@
 ---
 title: Slow Cooker Mexican Beef
+layout: post
 ---
 Yield: 10 servings<br>
 Prep Time: 20 minutes<br>
