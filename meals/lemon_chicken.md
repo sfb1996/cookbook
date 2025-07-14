@@ -1,13 +1,10 @@
---
+---
 title: Lemon Chicken and Rice Casserole
---
-*Prep Time*: 10 mins
-
-*Cook Time*: 50 mins
-
-*Total Time*: 1 hr
-
-*Servings*: 4
+---
+*Prep Time*: 10 mins <br>
+*Cook Time*: 50 mins <br>
+*Total Time*: 1 hr <br>
+*Servings*: 4 <br>
 
 ## Ingredients
 - 4 (6-ounce) bone-in, skin-on chicken thighs

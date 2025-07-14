@@ -2,30 +2,35 @@
 title: Meals
 ---
 # Recipes
-- Chicken and rice
+## American
 - Corn chowder
-- Lasagna soup
-- Kale and tortellini soup 
+- Kale and tortellini soup
+- Chicken and rice
 - White chicken chili
 - Cream cheese honey puff
-- Korean beef bowls
-- Fajitas
-- Tacos
-- Make your own pizzas
 - Chicken divan
 - Chicken and noodles
-- Gringo enchiladas
-- Mexican beef enchiladas
 - Chicken salad
-- Mediterranean pasta and veggies
-- One-pan gnocchi bake
-- Red beans and rice 
-- Taco soup
-- Shepherd’s pie 
-- Tuscan pasta
-- Un-lasagna
+- Red beans and rice
+- Shepherd’s pie
 - Cajun chicken
 - Meatloaf
-- Manicotti
 - Quiche
 - [Lemon chicken and rice](/meals/lemon_chicken.md)
+## Asian
+- Korean beef bowls
+## Italian
+- Lasagna soup
+- Make your own pizzas
+- One-pan gnocchi bake
+- Tuscan pasta
+- Un-lasagna
+- Manicotti
+## Greek
+- Mediterranean pasta and veggies
+## Mexican
+- Fajitas
+- Tacos
+- Gringo enchiladas
+- Mexican beef enchiladas
+- Taco soup
