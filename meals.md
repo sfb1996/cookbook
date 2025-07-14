@@ -30,4 +30,4 @@ permalink: /meals/
 - Meatloaf
 - Manicotti
 - Quiche
-- Lemon chicken and rice
+- [Lemon chicken and rice](/meals/lemon_chicken.md)
