@@ -16,7 +16,7 @@ title: Meals
 - Cajun chicken
 - Meatloaf
 - Quiche
-- [Lemon chicken and rice](/_posts/meals/lemon_chicken.md)
+- [Lemon chicken and rice](/meals/lemon_chicken.md)
 
 ## Asian
 - Korean beef bowls
@@ -36,5 +36,5 @@ title: Meals
 - Fajitas
 - Tacos
 - Gringo enchiladas
-- [Mexican beef enchiladas](/_posts/meals/mexican_beef_enchiladas.md)
+- [Mexican beef enchiladas](/meals/mexican_beef_enchiladas.md)
 - Taco soup
