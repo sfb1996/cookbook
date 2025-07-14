@@ -27,5 +27,5 @@ total time: 8 hours 20 minutes<br>
 
 # Instructions
 1. **For the slow cooker**: ==TODO==
-2. ** For the Instant Pot/Electric Pressure Cooker: ==TODO==
+2. **For the Instant Pot/Electric Pressure Cooker**: ==TODO==
 3. ==TODO==

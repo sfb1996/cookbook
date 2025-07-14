@@ -46,9 +46,9 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 header_pages:
   - index.md
-  - about.md
   - meals.md
   - desserts.md
+  - search.md
 
 
 # Exclude from processing.
