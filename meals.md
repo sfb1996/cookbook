@@ -17,8 +17,10 @@ title: Meals
 - Meatloaf
 - Quiche
 - [Lemon chicken and rice](/meals/lemon_chicken.md)
+
 ## Asian
 - Korean beef bowls
+
 ## Italian
 - Lasagna soup
 - Make your own pizzas
@@ -26,8 +28,10 @@ title: Meals
 - Tuscan pasta
 - Un-lasagna
 - Manicotti
+
 ## Greek
 - Mediterranean pasta and veggies
+
 ## Mexican
 - Fajitas
 - Tacos
