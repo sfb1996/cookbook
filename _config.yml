@@ -48,7 +48,6 @@ header_pages:
   - index.md
   - meals.md
   - desserts.md
-  - search.md
 
 
 # Exclude from processing.
