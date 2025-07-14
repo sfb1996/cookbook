@@ -36,5 +36,5 @@ title: Meals
 - Fajitas
 - Tacos
 - Gringo enchiladas
-- Mexican beef enchiladas
+- [Mexican beef enchiladas](/meals/mexican_beef_enchiladas.md)
 - Taco soup
