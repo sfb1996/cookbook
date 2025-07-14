@@ -31,6 +31,10 @@ github_username:  sfb1996
 remote_theme: jekyll/minima
 minima:
   skin: solarized-light
+  nav_pages:
+    - index.md
+    - meals.md
+    - desserts.md
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
@@ -46,10 +50,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-header_pages:
-  - index.md
-  - meals.md
-  - desserts.md
 
 
 # Exclude from processing.
