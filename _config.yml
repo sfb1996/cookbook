@@ -28,9 +28,9 @@ github_username:  sfb1996
 
 # Build settings
 # remote_theme: pages-themes/cayman@v0.2.0
-theme: Minima
-Minima:
-  skins: solarized-light
+theme: minima
+minima:
+  skin: solarized-light
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
