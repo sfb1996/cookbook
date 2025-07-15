@@ -34,6 +34,7 @@ minima:
   nav_pages:
     - index.md
     - meals.md
+    - breads.md
     - desserts.md
 plugins:
   - jekyll-remote-theme

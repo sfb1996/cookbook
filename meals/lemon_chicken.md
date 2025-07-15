@@ -8,20 +8,20 @@ layout: post
 *Servings*: 4 <br>
 
 ## Ingredients
-- 4 (6-ounce) bone-in, skin-on chicken thighs
-- 1 teaspoon kosher salt
-- 1/4 teaspoon freshly ground black pepper
-- 2 tablespoons olive oil
-- 2 cloves garlic, finely chopped
-- 1 1/2 cups uncooked long-grain white rice, rinsed
-- 1 (10 1/2-ounce) cream of chicken soup
-- 1 tablespoon freshly squeezed lemon juice
-- 1 teaspoon grated lemon zest
-- 1 teaspoon chopped fresh tarragon, plus more for garnish
-- 1/4 teaspoon crushed red pepper, plus more for garnish
-- 2 cups chicken broth
-- 1 lemon, sliced into 1/8-inch thick slices
-- 1 teaspoon chopped fresh flat-leaf parsley
+- [ ] 4 (6-ounce) bone-in, skin-on chicken thighs
+- [ ] 1 teaspoon kosher salt
+- [ ] 1/4 teaspoon freshly ground black pepper
+- [ ] 2 tablespoons olive oil
+- [ ] 2 cloves garlic, finely chopped
+- [ ] 1 1/2 cups uncooked long-grain white rice, rinsed
+- [ ] 1 (10 1/2-ounce) cream of chicken soup
+- [ ] 1 tablespoon freshly squeezed lemon juice
+- [ ] 1 teaspoon grated lemon zest
+- [ ] 1 teaspoon chopped fresh tarragon, plus more for garnish
+- [ ] 1/4 teaspoon crushed red pepper, plus more for garnish
+- [ ] 2 cups chicken broth
+- [ ] 1 lemon, sliced into 1/8-inch thick slices
+- [ ] 1 teaspoon chopped fresh flat-leaf parsley
 
 ## Directions
 1. Gather all ingredients.
