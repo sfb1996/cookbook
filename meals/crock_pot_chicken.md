@@ -12,7 +12,7 @@ layout: post
 - [ ] 4 chicken breasts
 
 ## Sauce
-- [ ] 8oz cream cheese
+- [ ] 1 8oz cream cheese
 - [ ] 1 10oz can cream of chicken soup
 
 ## Base
