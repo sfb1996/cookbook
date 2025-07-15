@@ -41,10 +41,12 @@ layout: post
 9. Spread 1-2 cups of sauce over the top of the enchiladas. Sprinkle with cheese.
 10. Bake at 350 degrees for 20-30 minutes until bubbly and hot. Let the enchiladas rest for 5-10 minutes before serving.
 11. Sprinkle with fresh cilantro, if desired, and serve.
----
-# Notes
-**Serving Size*: *it kind of depends on how full you stuff each encilada (and the size of tortillas you use)... I've detailed the recipe for a 9x14-inch pan of enchiladas (about 10). If you used a slightly larger roast or used less meat mixture for each enchilada and have more enchiladas, simly fill up another pan and freeze before baking.*
 
-**Freezable**: *the cooked, shredded beef freezes really well. Toss the beef with 1-2 cups sauce and freeze (in bags or covered containers). Assembled enchiladas freeze well, too. To bake from frozen, keep the pan covered and bake at 350 degrees for 45-60 minutes; uncover and bake until heated through and bubbly, another 20-3o minutes.
+---
+
+# Notes
+**Serving Size**: *it kind of depends on how full you stuff each encilada (and the size of tortillas you use)... I've detailed the recipe for a 9x14-inch pan of enchiladas (about 10). If you used a slightly larger roast or used less meat mixture for each enchilada and have more enchiladas, simly fill up another pan and freeze before baking.*
+
+**Freezable**: *the cooked, shredded beef freezes really well. Toss the beef with 1-2 cups sauce and freeze (in bags or covered containers). Assembled enchiladas freeze well, too. To bake from frozen, keep the pan covered and bake at 350 degrees for 45-60 minutes; uncover and bake until heated through and bubbly, another 20-30 minutes.*
 
 Original Recipe: [Mel's Kitchen Cafe](https://www.melskitchencafe.com/slow-cooker-mexican-shredded-beef-for-enchiladas/)
