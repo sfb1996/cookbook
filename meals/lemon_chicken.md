@@ -7,7 +7,7 @@ layout: post
 *Total Time*: 1 hr <br>
 *Servings*: 4 <br>
 
-## Ingredients
+# Ingredients
 - [ ] 4 (6-ounce) bone-in, skin-on chicken thighs
 - [ ] 1 teaspoon kosher salt
 - [ ] 1/4 teaspoon freshly ground black pepper
@@ -23,7 +23,7 @@ layout: post
 - [ ] 1 lemon, sliced into 1/8-inch thick slices
 - [ ] 1 teaspoon chopped fresh flat-leaf parsley
 
-## Directions
+# Directions
 1. Gather all ingredients.
 2. Preheat the oven to 375 degrees F (190 degrees C). Season chicken thighs evenly with salt
 and pepper on both sides.
