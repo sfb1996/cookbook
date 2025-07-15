@@ -4,8 +4,6 @@
 
 title: Home
 ---
-**Enjoy**
-
 [Meals](/meals.md)
 
 [Breads](/Breads.md)
