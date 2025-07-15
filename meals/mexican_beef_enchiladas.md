@@ -21,7 +21,7 @@ layout: post
 - [ ] 2 tablespoons cornstarch or flower
 
 ## Enchiladas
-- [ ] 10 6 or 7=inch flour or corn tortillas
+- [ ] 10 6- or 7-inch flour or corn tortillas
 - [ ] 1 cup shredded sharp cheddar cheese
 - [ ] 1 1/2 cupps shredded Monterey Jack Cheese
 
@@ -43,7 +43,6 @@ layout: post
 11. Sprinkle with fresh cilantro, if desired, and serve.
 
 ---
-
 # Notes
 **Serving Size**: *it kind of depends on how full you stuff each encilada (and the size of tortillas you use)... I've detailed the recipe for a 9x14-inch pan of enchiladas (about 10). If you used a slightly larger roast or used less meat mixture for each enchilada and have more enchiladas, simly fill up another pan and freeze before baking.*
 
