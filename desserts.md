@@ -2,7 +2,7 @@
 title: Desserts
 ---
 ## Cakes
-o items yet
+no items yet
 
 ## Cookies
 - [Basic Chocolate Chip](/desserts/basic_chocolate_chip.md)
