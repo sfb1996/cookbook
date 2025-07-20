@@ -23,7 +23,7 @@ layout: post
 - [ ] 1 tsp salt (*or more to taste*)
 - [ ] 1 tsp dried oregano
 
-## For Garnish
+### For Garnish
 - [ ] fresh basil
 - [ ] balsamic glaze
 - [ ] vegan parmesan (*optional*)
