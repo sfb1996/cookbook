@@ -25,7 +25,7 @@ title: Meals
 - Lasagna soup
 - Make your own pizzas
 - Manicotti
-- One-pan gnocchi bake
+- [One-pan gnocchi bake](/meals/vegetarian_sheet_pan_gnocci.md)
 - Tuscan pasta
 - Un-lasagna
 
