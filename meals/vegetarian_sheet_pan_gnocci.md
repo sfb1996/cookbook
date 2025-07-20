@@ -2,35 +2,33 @@
 title: Vegetarian Sheet Pan Gnocci
 layout: post
 ---
-> A signle-dish roasted vegetable and chickpea gnocchi dish that anyone can make
+> A single-dish roasted vegetable and chickpea gnocchi dish that anyone can make
 
 *Prep Time*: 10 minutes <br>
 *Cook Time*: 25 minutes <br>
-*Servings* 4
+*Servings*: 4
 
 # Ingredients
 
-> [!WARNING]
-> The ingredients list has been doubled from the original recipe, so you might need 2 sheet pans to fit everything.
+> NOTE: The ingredients list has been doubled from the original recipe, so you might need 2 sheet pans to fit everything.
 
 - [ ] 32 oz potato gnocchi
-- [ ] 2 yellow/red bell peppers *chopped*
-- [ ] 2 pints cherry totamoes *or grape tomatoes*
-- [ ] 2 red onions *chopped*
-- [ ] 2 cans chickpeas *drained and rinsed*
+- [ ] 2 yellow/red bell peppers (*chopped*)
+- [ ] 2 pints cherry totamoes (*or grape tomatoes*)
+- [ ] 2 red onions (*chopped*)
+- [ ] 2 cans chickpeas (*drained and rinsed*)
 - [ ] 4 tbsp olive oil
 - [ ] 4 tbsp nutritional yeast
 - [ ] 2 tsp garlic powder
-- [ ] 1 tsp salt *or more to taste*
+- [ ] 1 tsp salt (*or more to taste*)
 - [ ] 1 tsp dried oregano
 
 ## For Garnish
 - [ ] fresh basil
 - [ ] balsamic glaze
-- [ ] vegan parmesan *optional*
+- [ ] vegan parmesan (*optional*)
 
-> [!NOTE]
-> We prefer Green Goddess Dresing on top. You can also try vegan dill or tahini dip.
+> NOTE: We prefer Green Goddess Dresing on top. You can also try vegan dill or tahini dip.
 
 # Instructions
 1. Preheat oven to 400F.
