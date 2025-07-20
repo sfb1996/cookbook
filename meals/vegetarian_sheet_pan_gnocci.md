@@ -10,7 +10,8 @@ layout: post
 
 # Ingredients
 
->[!info] The ingredients list has been doubled from the original recipe, so you might need 2 sheet pans to fit everything.
+> [!WARNING]
+> The ingredients list has been doubled from the original recipe, so you might need 2 sheet pans to fit everything.
 
 - [ ] 32 oz potato gnocchi
 - [ ] 2 yellow/red bell peppers *chopped*
@@ -28,7 +29,8 @@ layout: post
 - [ ] balsamic glaze
 - [ ] vegan parmesan *optional*
 
->[!tip] We prefer Green Goddess Dresing on top. You can also try vegan dill or tahini dip.
+> [!NOTE]
+> We prefer Green Goddess Dresing on top. You can also try vegan dill or tahini dip.
 
 # Instructions
 1. Preheat oven to 400F.
