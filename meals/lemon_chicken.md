@@ -28,7 +28,7 @@ layout: post
 2. Preheat the oven to 375 degrees F (190 degrees C). Season chicken thighs evenly with salt
 and pepper on both sides.
 3. Heat oil in a large oven-safe skillet over medium-high. Add chicken thighs to skillet, skin
-sides down, and cook until golden brown on both sides, about 8 minutes. Transfer chicken
+sides down, and cook until golden brown on both sides, about 8 minutes total. Transfer chicken
 thighs to a plate; set aside. Do not wipe skillet clean.
 4. Add garlic to drippings in the skillet. Cook, stirring constantly, until fragrant, 10 to 20 seconds.
 Add rice, cream of chicken soup, lemon juice, lemon zest, tarragon, and crushed red pepper;
