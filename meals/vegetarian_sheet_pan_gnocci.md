@@ -8,11 +8,11 @@ layout: post
 *Cook Time*: 25 minutes <br>
 *Servings*: 4
 
-# Ingredients
-
 > NOTE: This recipe is sized to fit one pan, but we often double it.
 
-## The Good Stuff
+# Ingredients
+
+## "The Good Stuff"
 > NOTE: These are the things we like to put on it, but you can vary the vegetables or even remove the sausage to make it vegetarian!
 
 - [ ] 16 oz potato gnocchi
