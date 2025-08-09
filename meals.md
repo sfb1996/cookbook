@@ -17,9 +17,11 @@ title: Meals
 - Red beans and rice
 - Shepherd’s pie
 - White chicken chili
+<br/>
 
 ## Asian
 - Korean beef bowls
+<br/>
 
 ## Italian
 - Lasagna soup
@@ -28,9 +30,11 @@ title: Meals
 - [One-pan gnocchi bake](/meals/vegetarian_sheet_pan_gnocci.md)
 - Tuscan pasta
 - Un-lasagna
+<br/>
 
 ## Greek
 - Mediterranean pasta and veggies
+<br/>
 
 ## Mexican
 - Fajitas
