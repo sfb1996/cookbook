@@ -9,7 +9,7 @@ layout: post
 ## Cake
 - [ ] 1 cup (8 oz) chopped dates (yes, dates)
 - [ ] 1 1/2 cups hot water
-- [ ] 1 tsp soda
+- [ ] 1 tsp baking soda
 
 ## Cream
 - [ ] 3/4 cup Crisco
