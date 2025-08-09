@@ -1,13 +1,11 @@
 ---
 title: Desserts
 ---
-## Cakes
+# Cakes
 - [Picnic Cake](/desserts/picnic_cake.md)
-<br/>
 
-## Cookies
+# Cookies
 - [Basic Chocolate Chip](/desserts/basic_chocolate_chip.md)
-<br/>
 
-## Pastries
+# Pastries
 no items yet
