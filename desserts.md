@@ -7,5 +7,5 @@ title: Desserts
 ## Pastries
 no items yet
 
-## Cookies
+## Cookie Recipies
 - [Basic Chocolate Chip](/desserts/basic_chocolate_chip.md)
