@@ -6,9 +6,11 @@ layout: post
 *Servings*: 6 <br>
 
 # Ingredients
+## Meat
 - [ ] 1 tablespoon sesame oil
 - [ ] 1 lb lean ground beef
 
+## Spices
 - [ ] 3 cloves garlic, minced
 - [ ] 1/2 cup light brown sugar
 - [ ] 1/4 cup soy sauce
@@ -16,6 +18,7 @@ layout: post
 - [ ] salt and pepper to taste
 - [ ] 1/2 to 1 teaspoon crushed red pepper (depending on how spicy you like things)
 
+## Sides and Toppings
 - [ ] 2-3 cups cooked white rice
 - [ ] 1 bunch green onions diced
 
