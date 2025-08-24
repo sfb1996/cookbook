@@ -20,7 +20,7 @@ title: Meals
 <br/>
 
 ## Asian
-- Korean beef bowls
+- [Korean beef bowls](/meals/korean_beef_bowls.md)
 <br/>
 
 ## Italian
