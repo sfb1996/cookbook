@@ -12,7 +12,7 @@ title: Meals
 - Cream cheese honey puff
 - Kale and tortellini soup
 - [Lemon chicken and rice](/meals/lemon_chicken.md)
-- Meatloaf
+- [Meatloaf](/meals/sweet_and_sour_meatloaf.md)
 - Quiche
 - Red beans and rice
 - Shepherd’s pie
