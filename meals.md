@@ -3,42 +3,42 @@ title: Meals
 ---
 # Recipes
 ## American
-- Cajun chicken
-- Chicken and noodles
-- [Chicken and rice](/meals/crock_pot_chicken.md)
-- Chicken divan
-- Chicken salad
-- Corn chowder
-- Cream cheese honey puff
-- Kale and tortellini soup
-- [Lemon chicken and rice](/meals/lemon_chicken.md)
+- Cajun Chicken
+- Chicken and Noodles
+- [Chicken and Rice](/meals/crock_pot_chicken.md)
+- Chicken Divan
+- [Chicken Salad Sandwiches](/meals/chicken-salad-with-grapes.md)
+- Corn Chowder
+- Cream Cheese Honey Puff
+- Kale and Tortellini Soup
+- [Lemon Chicken and Rice](/meals/lemon_chicken.md)
 - [Meatloaf](/meals/sweet_and_sour_meatloaf.md)
 - Quiche
-- Red beans and rice
-- Shepherd’s pie
-- White chicken chili
+- Red Beans and Rice
+- Shepherd’s Pie
+- White Chicken Chili
 <br/>
 
 ## Asian
-- [Korean beef bowls](/meals/korean_beef_bowls.md)
+- [Korean Beef Bowls](/meals/korean_beef_bowls.md)
 <br/>
 
 ## Italian
-- Lasagna soup
+- Lasagna Soup
 - Make your own pizzas
 - Manicotti
-- [One-pan gnocchi bake](/meals/vegetarian_sheet_pan_gnocci.md)
-- [Tuscan pasta](/meals/tuscan_pasta.md)
+- [One-pan Gnocchi Bake](/meals/vegetarian_sheet_pan_gnocci.md)
+- [Tuscan Pasta](/meals/tuscan_pasta.md)
 - Un-lasagna
 <br/>
 
 ## Greek
-- Mediterranean pasta and veggies
+- Mediterranean Pasta and Veggies
 <br/>
 
 ## Mexican
 - Fajitas
-- Gringo enchiladas
-- [Mexican beef enchiladas](/meals/mexican_beef_enchiladas.md)
-- Taco soup
+- Gringo Enchiladas
+- [Mexican Beef Enchiladas](/meals/mexican_beef_enchiladas.md)
+- Taco Soup
 - Tacos
