@@ -38,4 +38,6 @@ When making them into freezer meals - put the noodles, sauce, and chicken into t
 - To cook when frozen: bake at 350 degrees for 40 minutes or until heated through. 
 - To cook when frozen but thawed: bake at 350 degrees for 30 minutes or until heated through.
 
+---
+
 **Credits:** [Tuscan Pasta](https://www.sixsistersstuff.com/wprm_print/20-minute-tuscan-pasta-freezer-meal)
