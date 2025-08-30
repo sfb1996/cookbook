@@ -28,7 +28,7 @@ title: Meals
 - Make your own pizzas
 - Manicotti
 - [One-pan gnocchi bake](/meals/vegetarian_sheet_pan_gnocci.md)
-- Tuscan pasta
+- [Tuscan pasta](/meals/tuscan_pasta.md)
 - Un-lasagna
 <br/>
 
