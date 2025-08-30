@@ -48,4 +48,6 @@ layout: post
 
 **Freezable**: *the cooked, shredded beef freezes really well. Toss the beef with 1-2 cups sauce and freeze (in bags or covered containers). Assembled enchiladas freeze well, too. To bake from frozen, keep the pan covered and bake at 350 degrees for 45-60 minutes; uncover and bake until heated through and bubbly, another 20-30 minutes.*
 
-Original Recipe: [Mel's Kitchen Cafe](https://www.melskitchencafe.com/slow-cooker-mexican-shredded-beef-for-enchiladas/)
+---
+
+Credits: [Mel's Kitchen Cafe](https://www.melskitchencafe.com/slow-cooker-mexican-shredded-beef-for-enchiladas/)

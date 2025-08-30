@@ -28,4 +28,6 @@ layout: post
 7. Return the meatloaf to the oven and bake at 350 degrees for 20 more minutes.
 8. Let sit 5 minutes before removing from the pan.
 
-**Source: Allrecipes.com**
+---
+
+**Credits: Allrecipes.com**
