@@ -35,10 +35,10 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: Summer
-tagline: 'Delicious & healthy recipes'
-description: 'A simple Jekyll theme with a photo sidebar.'
-keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
+title: Recipes
+tagline: 'Cowtown Bates Recipe Book'
+description: 'A recipe site based on Summer theme by Connor Baer.'
+keywords: ''
 url: https://sfb1996.github.io
 baseurl: /cookbook
 assets: /assets
@@ -47,17 +47,9 @@ image: index-large.jpg
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
-  name: Connor Bär
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
+  name: Sean Bates
+  bio: Hi! Welcome to my website!
   image: author
-  url: https://connorbaer.co
-  email: hello@connorbaer.co
-  twitter: connor_baer
-
-social:
-  twitter: https://twitter.com/connor_baer
-  instagram: https://instagram.com/connor_baer
-  github: https://github.com/sfb1996/cookbook
 
 version: 2.0.0
 

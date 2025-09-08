@@ -1,7 +1,7 @@
 {
   "name": "cookbook",
   "version": "2.0.0",
-  "description": "A simple Jekyll theme with a photo sidebar.",
+  "description": "Cowtown Bates Recipe Book.",
   "main": "index.html",
   "scripts": {
     "start": "gulp default",
@@ -11,22 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/connor-baer/summer.git"
+    "url": "git+https://github.com/sfb1996/cookbook.git"
   },
   "keywords": [
-    "connor",
-    "bär",
-    "designer",
-    "traveller",
-    "code",
-    "jekyll",
-    "developer",
-    "theme"
   ],
-  "author": "Connor Bär",
+  "author": "Sean Bates",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/connor-baer/cookbook/issues"
+    "url": "https://sfb1996.github.com/cookbook/issues"
   },
   "homepage": "https://sfb1996.github.io/cookbook",
   "dependencies": {
