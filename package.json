@@ -1,5 +1,5 @@
 {
-  "name": "summer",
+  "name": "cookbook",
   "version": "2.0.0",
   "description": "A simple Jekyll theme with a photo sidebar.",
   "main": "index.html",
@@ -26,9 +26,9 @@
   "author": "Connor Bär",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/connor-baer/summer/issues"
+    "url": "https://github.com/connor-baer/cookbook/issues"
   },
-  "homepage": "https://connor-baer.github.io/summer",
+  "homepage": "https://sfb1996.github.io/cookbook",
   "dependencies": {
     "list.js": "^1.5.0",
     "mappy-breakpoints": "^0.2.3",
