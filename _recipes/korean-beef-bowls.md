@@ -33,7 +33,7 @@ ingredients:
   - name: cooked white rice
     amount: 2 - 3
     unit: cups
-  - name: bgreen onions, diced
+  - name: green onions, diced
     amount: 1
     unit: bunch
 ---
