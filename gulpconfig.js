@@ -218,7 +218,7 @@ module.exports = {
       appDescription: pkg.description,
       developerName: pkg.author,
       background: '#ffffff',
-      theme_color: '#fab005',
+      theme_color: '#572433',
       path: `${src + assets}icons/`,
       url: pkg.homepage,
       display: 'standalone',

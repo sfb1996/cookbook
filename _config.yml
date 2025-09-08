@@ -10,7 +10,7 @@ plugins:
   - jekyll-seo-tag
 
 # Settings
-color: '#fab005'
+color: '#572433'
 exclude:
   [
     CNAME,
