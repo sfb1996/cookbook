@@ -18,7 +18,7 @@ ingredients:
   - name: grapes, halved (red, green, or combination of both)
     amount: 1
     unit: cup
-  - name: croissants, sanwich rolls, bread, or wraps for serving
+  - name: croissants, sandwich rolls, bread, or wraps for serving
     amount:
     unit:
   - name: light mayo
