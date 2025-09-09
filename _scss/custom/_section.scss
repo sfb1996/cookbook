@@ -130,9 +130,9 @@
 .list-category {
   @include font(app);
 
-  position: relative;
+  /*position: relative;
   top: 0;
-  left: 1rem;
+  left: 1rem;*/
   padding: .125rem .75rem;
   transform: translateY(-50%);
   border-radius: .5rem;
