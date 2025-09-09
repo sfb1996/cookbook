@@ -104,7 +104,7 @@ exclude: true
             <div class="list-body">
               <h3 class="list-header title">{{ page.title }}</h3>
               <span class="list-category category">{{ page.category }}</span>
-              {% include custom/meta.html %}
+             <!-- {% include custom/meta.html %} -->
               <span class="list-ingredients ingredients" data-ingredients="{% for i in page.ingredients %}{{ i.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}"></span>
             </div>
           </a>
