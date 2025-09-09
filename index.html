@@ -95,18 +95,19 @@ exclude: true
 
     <ul class="list">
       {% assign recipes = site.recipes | where: "lang", page.lang %}
-      {% assign recipes_with_sort_key = "" | split: "" %}
+      {% assign sortable_list = "" | split: "" %}
 
       {% for recipe in recipes %}
-        {% assign sort_key = recipe.category | append: "-" | append: recipe.ref %}
-        {% assign recipe = recipe | merge: { "sort_key": sort_key } %}
-        {% assign recipes_with_sort_key = recipes_with_sort_key | push: recipe %}
+        {% assign sort_key = recipe.category | append: "-" | append: recipe.title %}
+        {% assign line = sort_key | append: "||" | append: recipe.url %}
+        {% assign sortable_list = sortable_list | push: line %}
       {% endfor %}
+      {% assign sorted_recipes = sortable_list | sort %}
 
-      {% assign sorted_recipes = recipes_with_sort_key | sort: "sort_key" %}
-
-      {% for page in sorted_recipes %}
-
+      {% for item in sorted_recipes %}
+        {% assign parts = item | split: "||" %}
+        {% assign recipe_url = parts[1] %}
+        {% assign page = site.recipes | where: "url", recipe_url | first %}
       <li class="list-recipe">
         <article>
           <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">
