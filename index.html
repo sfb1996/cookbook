@@ -94,7 +94,7 @@ exclude: true
     </form>
 
     <ul class="list">
-      {% assign recipes = site.recipes | where: "lang", page.lang, sort: 'title' %}
+      {% assign recipes = site.recipes | where: "lang", page.lang | sort: 'title' %}
       {% for page in recipes %}
 
       <li class="list-recipe">
