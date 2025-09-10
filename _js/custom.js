@@ -108,7 +108,7 @@ function filterList() {
             item
               .values()
               .tags.split(', ')
-              .indexOf(n) !== -1
+              .indexOf(n) === -1
         ).length > 0;
 
       // Show the item if it matches the filters.
