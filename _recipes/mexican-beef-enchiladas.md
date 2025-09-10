@@ -4,7 +4,7 @@ ref: mexican-beef-enchiladas
 image: false
 time: 500
 category: Mexican
-tags: ['meat, dinner']
+tags: ['meat', 'dinner', 'crockpot']
 ingredients:
   - name: boneless chuck or sirloin beef roast
     amount: 2-3
