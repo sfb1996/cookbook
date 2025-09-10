@@ -4,7 +4,7 @@ ref: chicken-and-noodles
 image: false
 time: 
 category: American
-tags: ['No Recipe']
+tags: ['No Recipe', 'dinner']
 ingredients:
   - name: 
     amount: 

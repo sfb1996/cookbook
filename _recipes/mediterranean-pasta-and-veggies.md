@@ -4,7 +4,7 @@ ref: mediterranean-pasta-and-vegies
 image: false
 time: 
 category: Greek
-tags: ['No Recipe']
+tags: ['No Recipe', 'dinner']
 ingredients:
   - name: 
     amount: 

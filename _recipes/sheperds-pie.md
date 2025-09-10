@@ -4,7 +4,7 @@ ref: sheperds-pie
 image: false
 time: 
 category: American
-tags: ['No Recipe']
+tags: ['No Recipe', 'dinner']
 ingredients:
   - name: 
     amount: 

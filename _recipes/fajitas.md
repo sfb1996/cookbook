@@ -4,7 +4,7 @@ ref: fajitas
 image: false
 time: 
 category: Mexican
-tags: ['No Recipe']
+tags: ['No Recipe', 'dinner']
 ingredients:
   - name: 
     amount: 

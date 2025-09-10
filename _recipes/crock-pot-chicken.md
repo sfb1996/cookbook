@@ -4,7 +4,7 @@ ref: crock-pot-chicken
 image: false
 time: 250
 category: American
-tags: [meat, crockpot]
+tags: [meat, crockpot, 'dinner']
 ingredients:
   - name: package of Good Seasons Italian dressing mix
     amount: 1

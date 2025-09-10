@@ -4,7 +4,7 @@ ref: chicken-salad-sandwiches
 image: false
 time: 15
 category: American
-tags: [meat]
+tags: [meat, 'dinner']
 ingredients:
   - name: cubed or shredded chicken (rotisserie chicken works great)
     amount: 3

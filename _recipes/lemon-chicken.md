@@ -4,7 +4,7 @@ ref: lemon-chicken
 image: false
 time: 60
 category: American
-tags: [meat]
+tags: [meat, 'dinner']
 ingredients:
   - name: bone-in, skin-on chicken thighs
     amount: 4

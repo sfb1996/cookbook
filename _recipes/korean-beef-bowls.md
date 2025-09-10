@@ -4,7 +4,7 @@ ref: korean-beef-bowls
 image: false
 time: 30
 category: Asian
-tags: [meat]
+tags: [meat, 'dinner']
 ingredients:
   - name: sesame oil
     amount: 1
