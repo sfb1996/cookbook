@@ -5,6 +5,7 @@ image: false
 time: 70
 category: American
 tags: ['dinner']
+ingredients:
   - name: ground beef
     amount: 1 1/2
     unit: lbs
