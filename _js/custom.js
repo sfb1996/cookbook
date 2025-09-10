@@ -15,7 +15,7 @@ const searchOptions = {
   fuzzySearch: {
     searchClass: 'search',
     location: 0,
-    distance: 20,
+    distance: 100,
     threshold: 0.4,
     multiSearch: true
   }
