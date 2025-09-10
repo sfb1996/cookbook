@@ -2,7 +2,7 @@
 title: 'Mexican Beef Enchiladas'
 ref: mexican-beef-enchiladas
 image: false
-time: 
+time: 500
 category: Mexican
 tags: ['meat, dinner']
 ingredients:
