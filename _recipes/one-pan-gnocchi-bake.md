@@ -21,7 +21,7 @@ ingredients:
   - name: chickpeas (drained and rinsed)
     amount: 1
     unit: can
-  - name: Zucchini
+  - name: zucchini
     amount: 1
     unit: 
   - name: squash
