@@ -6,42 +6,42 @@ time: 20
 category: Italian
 tags: ['dinner', 'meat']
 ingredients:
-  - name: bow tie pasta *(1 box)*
+  - name: bow tie pasta (1 box)
     amount: 16
     unit: oz
   - name: butter
     amount: 4
     unit: tbsp
-  - name: garlic *finely minced or pressed through a garlic press*
+  - name: garlic (finely minced or pressed through a garlic press)
     amount: 4
     unit: cloves
   - name: dried basil
     amount: 1/2
     unit: tbsp
-  - name: cream cheese *softened and cut into small cubes*
+  - name: cream cheese (softened and cut into small cubes)
     amount: 8
     unit: oz
-  - name: sun dried tomatoes *1 jar - rinsed, drained, and chopped*
+  - name: sun dried tomatoes (1 jar - rinsed, drained, and chopped)
     amount: 8
     unit: oz
   - name: milk
     amount: 2
     unit: cups
-  - name: parmesan cheese *grated*
+  - name: parmesan cheese (grated)
     amount: 8
     unit: oz
   - name: ground black pepper
     amount: 1/2
     unit: tsp
-  - name: salt *more to taste if needed*
+  - name: salt (more to taste if needed)
     amount: 1/2
     unit: tsp
-  - name: chicken *cooked and cubed*
+  - name: chicken (cooked and cubed)
     amount: 1
     unit: cup
 ---
 
-> This Tuscan Pasta only takes 20 minutes to throw together and makes the perfect freezer meal. With a creamy, cheesy garlic sauce, sun-dried tomatoes, and grilled chicken, it will become a family favorite in no time.
+*This Tuscan Pasta only takes 20 minutes to throw together and makes the perfect freezer meal. With a creamy, cheesy garlic sauce, sun-dried tomatoes, and grilled chicken, it will become a family favorite in no time.*
 
 # Equipment
 - Stock Pot (10 qt)

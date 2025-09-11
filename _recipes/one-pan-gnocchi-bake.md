@@ -9,16 +9,16 @@ ingredients:
   - name: potato gnocchi
     amount: 16
     unit: oz
-  - name: yellow/red bell peppers (*chopped*)
+  - name: yellow/red bell peppers (chopped)
     amount: 1
     unit: 
-  - name: cherry totamoes (*or grape tomatoes*)
+  - name: cherry totamoes (or grape tomatoes)
     amount: 1
     unit: pint
-  - name: red onions (*chopped*)
+  - name: red onions (chopped)
     amount: 1/2
     unit: 
-  - name: chickpeas (*drained and rinsed*)
+  - name: chickpeas (drained and rinsed)
     amount: 1
     unit: can
   - name: Zucchini
@@ -39,7 +39,7 @@ ingredients:
   - name: garlic powder
     amount: 1
     unit: tsp
-  - name: salt (*or more to taste*)
+  - name: salt (or more to taste)
     amount: 1/2
     unit: tsp
   - name: dried oregano
@@ -51,22 +51,12 @@ ingredients:
   - name: balsamic glaze
     amount: 
     unit: 
-  - name: vegan parmesan (*optional*)
+  - name: vegan parmesan (optional)
     amount: 
     unit: 
-
-- [ ] fresh basil
-- [ ] balsamic glaze
-- [ ] vegan parmesan (*optional*)
 ---
 
-> A single-dish, roasted vegetable and chickpea gnocchi dish that anyone can make
-
-> NOTE: This recipe is sized to fit one pan, but we often double it.
-
-> NOTE: These are the things we like to put on it, but you can vary the vegetables or even remove the sausage to make it vegetarian!
-
-> NOTE: We prefer Green Goddess Dresing on top. You can also try vegan dill or tahini dip.
+*A single-dish, roasted vegetable and chickpea gnocchi dish that anyone can make!*
 
 1. Preheat oven to 400F.
 2. Put parchment paper on a baking sheet. 
@@ -76,3 +66,8 @@ ingredients:
 
 ---
 
+*NOTE: This recipe is sized to fit one pan, but we often double it.*
+
+*NOTE: These are the things we like to put on it, but you can vary the vegetables or even remove the sausage to make it vegetarian!*
+
+*NOTE: We prefer Green Goddess Dresing on top. You can also try vegan dill or tahini dip.*
