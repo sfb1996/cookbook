@@ -1,5 +1,5 @@
 ---
-title: 'Red Beams and Rice'
+title: Red Beans and Rice
 ref: red-beans-and-rice
 image: false
 time: 
