@@ -50,6 +50,7 @@ ingredients:
     unit: tsp
 ---
 
+# Instructions
 1. Gather all ingredients.
 2. Preheat the oven to 375 degrees F (190 degrees C). Season chicken thighs evenly with salt
 and pepper on both sides.

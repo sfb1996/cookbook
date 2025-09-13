@@ -58,6 +58,7 @@ ingredients:
 
 ---
 
+# Instructions
 1. Preheat the oven to 425 degrees F. Prepare a large sheet pan by lightly greasing. Place the chicken thighs in a large bowl.
 2. Whisk together the marinade: oil, mustard, garlic, oregano, thyme, and sea salt. Reserve a few tbsp, and pour the rest over the chicken thighs.
 3. White the chicken marinates for about 10 minutes, prep the veggies. Dice up the potatoes and peppers into small chunks. Create slices of red onion. You can leave the cherry tomatoes whole.

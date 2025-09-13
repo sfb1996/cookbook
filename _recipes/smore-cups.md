@@ -27,6 +27,7 @@ ingredients:
 
 *Note: All chocolate bars will work, and we've even used reese's peanut butter cups (1/2 peanut butter cup per s'more cup)*
 
+# Instructions
 1. Mix graham gracker crumbs, powdered sugar, and melted butter together until crubly and evenly mixed.
 2. Put a small scoop of these crumbs in each cup of a mini-muffin tin and press down and up the sides to form a little "cup."
 3. Bake at 350 for 4-5 minutes - or until the edges are bubbling.

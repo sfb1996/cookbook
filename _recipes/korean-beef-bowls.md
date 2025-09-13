@@ -38,6 +38,7 @@ ingredients:
     unit: bunch
 ---
 
+# Instructions
 1. Heat sesame oil in large skillet over medium heat until simmering.
 2. Add ground beef and minced garlic and brown until no more pink remains.
 3. Drain off most of the fat.

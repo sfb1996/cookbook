@@ -41,6 +41,7 @@ ingredients:
     unit: tsp
 ---
 
+# Instructions
 1. Preheat oven to 350 degrees F.
 2. In a large bowl, combine the ground beef, bread crumbs, salt, ground black pepper, eggs, onion flakes and 1/2 of the can of tomato sauce. Mix together well and place in a 5x9 in loaf pan.
 3. Push the meatloaf down into the pan forming a well for the sauce around all the edges.

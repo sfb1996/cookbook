@@ -58,6 +58,7 @@ ingredients:
 
 *A single-dish, roasted vegetable and chickpea gnocchi dish that anyone can make!*
 
+# Instructions
 1. Preheat oven to 400F.
 2. Put parchment paper on a baking sheet. 
 3. Add he gnocchi, bell peppers, tomatoes, red onion, chickpeas, zucchini, squash, and sausage to the sheet pan. Drizzle with olive oil and coat with the other seasoning items. Toss until evenly mixed.

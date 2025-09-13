@@ -50,6 +50,7 @@ ingredients:
 
 ---
 
+# Instructions
 1. If using bacon or sausage, cook and crumble. Drain fat leaving 1 tablespoon in the pan.
 2. If desired, soften the onion in the fat. This is optional but will soften the flavor of the onion.
 3. Grease a 6qt slow cooker. Place half the hash browns, meat, onions, peppers, and cheese in the slow cooker. Repeat layers ending with cheese, do not stir.

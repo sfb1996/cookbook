@@ -39,6 +39,7 @@ ingredients:
 
 *Note: You can trade out 1/2 cup of chocolate chips for 1/2 cup Heath toffee **bits** (not chips)*
 
+# Instructions
 1. Add butter, sugar, brown sugar, vanilla, and egg to a large bowl and mix well until fluffy.
 2. Add flour, salt, and baking soda and mix together.
 3. Add chocolate chips and mix.

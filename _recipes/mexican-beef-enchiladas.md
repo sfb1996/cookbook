@@ -53,6 +53,7 @@ ingredients:
     unit: cups
 ---
 
+# Instructions
 1. Put the beef roast in the cooker of choice. Whisk together the broth, vinegar, salsa, cumin, chili powder, onion powder, garlic powder, salt and pepper. Pour over the roast. Cook according to the instructions below
 
 **For the slow cooker**: use a 4- or 5-quart slow cooker, cover the slow cooker, and cook on low for 8-10 hours until the beef is tender and shreds easily

@@ -44,6 +44,7 @@ ingredients:
     unit: tsp
 ---
 
+# Instructions
 1. Stir together all dressing ingredients until smooth, set aside.
 2. In a large bowl combine chicken, celery, pecans, and grapes.
 3. Pour dressing over chicken salad. Toss well to combine and coat evenly in the dressing.

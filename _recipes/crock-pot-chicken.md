@@ -26,6 +26,7 @@ ingredients:
     unit:
 ---
 
+# Instructions
 1. Add chicken ingredients to pot and cook: *crock pot on low for 4 hours or instant pot for 30 minutes*
 2. Cool, bone, skin, and cut into chunks.
 3. Add sauce incredients to the pot. *crock pot on low for another 2 hours or instant pot heat through on low until ingredients have incorporated.*

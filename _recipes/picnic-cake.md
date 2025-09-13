@@ -49,6 +49,7 @@ ingredients:
 
 ---
 
+# Instructions
 1. mix dates, water, and baking soda. Set aside to cool.
 2. While the mixture from step 1 is cooling, cream the Crisco, eggs, and sugar together.
 3. Add flour, cinnamon, salt, and vanilla to creamed mixture.
