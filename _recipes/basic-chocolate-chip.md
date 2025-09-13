@@ -44,5 +44,3 @@ ingredients:
 2. Add flour, salt, and baking soda and mix together.
 3. Add chocolate chips and mix.
 4. Bake at 375 for 8-9 minutes until slightly golden.
-
----

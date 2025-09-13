@@ -31,5 +31,3 @@ ingredients:
 2. Cool, bone, skin, and cut into chunks.
 3. Add sauce incredients to the pot. *crock pot on low for another 2 hours or instant pot heat through on low until ingredients have incorporated.*
 4. Serve over potatoes, noodles, or rice
-
----

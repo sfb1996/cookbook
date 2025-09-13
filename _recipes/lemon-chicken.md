@@ -67,5 +67,3 @@ thickest portion of chicken registers 165 degrees F (73 degrees C), about 30 min
 6. Remove from the oven. Stir rice mixture, and sprinkle with parsley. Divide chicken, lemon
 slices, and rice evenly among 4 plates. Garnish with
 additional tarragon and crushed red pepper.
-
----

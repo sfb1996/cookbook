@@ -45,5 +45,3 @@ ingredients:
 4. Add: brown sugar, soy sauce, ginger, salt, pepper, and crushed red pepper.
 5. Simmer for a few minutes to blend the flavors
 6. Serve over steamed rice and top with green onions.
-
----
