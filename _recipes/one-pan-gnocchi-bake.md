@@ -12,7 +12,7 @@ ingredients:
   - name: yellow/red bell peppers (chopped)
     amount: 1
     unit: 
-  - name: cherry totamoes (or grape tomatoes)
+  - name: cherry tomatoes (or grape tomatoes)
     amount: 1
     unit: pint
   - name: red onions (chopped)
