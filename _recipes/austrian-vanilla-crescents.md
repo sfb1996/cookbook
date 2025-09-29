@@ -3,7 +3,7 @@ title: Austrian vanilla crescents
 ref: vanilla-crescents
 image: true
 time: 60
-category: snacks
+category: Dessert
 tags:
   - cookies
   - sweet

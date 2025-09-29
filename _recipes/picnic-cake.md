@@ -3,9 +3,8 @@ title: Picnic Cake
 ref: picnic-cake
 image: false
 time: 50
-category: American
-tags:
-  - dessert
+category: Dessert
+tags: []
 ingredients:
   - name: chopped dates (yes, dates)
     amount: 1

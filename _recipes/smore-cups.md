@@ -3,9 +3,8 @@ title: S'more Cups
 ref: basic-chocolate-chip
 image: false
 time: 25
-category: American
-tags:
-  - dessert
+category: Dessert
+tags: []
 ingredients:
   - name: whole graham crackers finely crushed
     amount: 7

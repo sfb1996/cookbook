@@ -3,9 +3,8 @@ title: Special K Bars
 ref: special-k-bars
 image: false
 time: 25
-category: American
+category: Dessert
 tags:
-  - dessert
   - scotcheroos
 ingredients:
   - name: sugar

@@ -3,9 +3,8 @@ title: Basic Chocolate Chip Cookies
 ref: basic-chocolate-chip
 image: false
 time: 25
-category: American
-tags:
-  - dessert
+category: Dessert
+tags: []
 ingredients:
   - name: softened butter (buy the good stuff) (melted is okay)
     amount: 3/4
