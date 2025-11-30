@@ -76,10 +76,7 @@ ingredients:
 
 **Slow Cooker**: Add 2 raw chicken breasts (or use rotisserie chicken and stir it in at the end), broth, green chilies, spices (cumin, paprika, oregano, cayenne, salt & pepper),lime juice, corn and beans (drained) to slow cooker. Sauté onions for a few minutes, then add garlic. Add to pot.
 
-Slow Cook on low for 5 hours or high for 3 hours. Remove chicken to a plate after cooking and shred. (Optional, to make the soup thicker: Spoon a ladleful of the soup and beans into a
-https://tastesbetterfromscratch.com/wprm_print/white-chicken-chili 7/21/24, 4:43 PM Page 2 of 3
-https://tastesbetterfromscratch.com/creamy-white-chicken-chili/
-blender and puree. Add back to the pot). Return shredded chicken to the pot and stir in sour cream. Serve with desired toppings.
+Slow Cook on low for 5 hours or high for 3 hours. Remove chicken to a plate after cooking and shred. (Optional, to make the soup thicker: Spoon a ladleful of the soup and beans into a blender and puree. Add back to the pot). Return shredded chicken to the pot and stir in sour cream. Serve with desired toppings.
 
 **Instant Pot** (I think the stove-top version is faster!): Turn Instant Pot to sauté setting. Add oil and onion and cook for a few minutes. Add garlic. Turn instant pot off. Add 1- 2 raw chicken breasts (or use rotisserie chicken and stir it in at the end), chicken broth, green chilies, spices (cumin, paprika, oregano, cayenne, salt & pepper), lime juice, corn and beans (drained). Cook on Manual/High Pressure for 8 minutes. Allow pressure to naturally release for 15 minutes.
 Remove chicken to a plate and shred. (Optional, to make the soup thicker: Spoon a ladleful of the soup and beans into a blender and puree. Add back to the pot). Return shredded chicken to the pot and stir in sour cream. Serve with desired toppings.
