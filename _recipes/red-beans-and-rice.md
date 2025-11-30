@@ -11,7 +11,7 @@ ingredients:
     unit: 
 ---
 
-Coming Soon!
+This recipe is from a recipe book, so I can't put it out there on the internet!
 
 ---
 
