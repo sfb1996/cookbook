@@ -11,5 +11,3 @@ Summer is a simple [Jekyll](http://jekyllrb.com) theme with a photo sidebar.
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
-
-💛
