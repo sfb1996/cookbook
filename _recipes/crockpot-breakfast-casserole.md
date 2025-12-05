@@ -20,7 +20,7 @@ ingredients:
   - name: green onions (sliced)
     amount: 2
     unit: 
-  - name: small white onioin (finely diced)
+  - name: small white onion (finely diced)
     amount: 1
     unit: 
   - name: red bell pepper (diced)

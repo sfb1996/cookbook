@@ -6,13 +6,13 @@ time: 150
 category: Dessert
 tags: ['andes', 'mint']
 ingredients:
-  - name: utter
+  - name: butter
     amount: 3/4
     unit: cup
   - name: light brown sugar
     amount: 1 1/2
     unit: cup
-  - name: ater
+  - name: water
     amount: 2
     unit: tbsp
   - name: semi-sweet chocolate chips (about the whole bag)
@@ -45,7 +45,9 @@ ingredients:
 3. Remove from heat and continue to stir until all the chips are melted.
 4. Pour into a large bowl and let cool for 10 minutes.
 5. With mixer, beat in eggs one at a time. Add dry ingredient, beating until blended.
-6. Chill the dough for one hour
+6. Chill the dough for one hour.
+<br/>
+<br/>
 
 ## Part 2
 1. Preheat oven to 350 degrees.
