@@ -38,10 +38,13 @@ ingredients:
     unit: bunch
 ---
 
+*Note: We love to eat this with roasted broccoli, carrots, and/or peppers.*
+
 # Instructions
 1. Heat sesame oil in large skillet over medium heat until simmering.
 2. Add ground beef and minced garlic and brown until no more pink remains.
-3. Drain off most of the fat.
-4. Add: brown sugar, soy sauce, ginger, salt, pepper, and crushed red pepper.
-5. Simmer for a few minutes to blend the flavors
-6. Serve over steamed rice and top with green onions.
+3. Meanwhile, in bowl, combine brown sugar, soy sauce, ginger, salt, pepper, and crushed red pepper.
+4. Drain off most of the fat.
+5. Add soy sauce and brown sugar mixture.
+6. Simmer for a few minutes to blend the flavors.
+7. Serve over steamed rice and top with green onions.
