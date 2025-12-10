@@ -42,11 +42,13 @@ ingredients:
 # Instructions
 1. Preheat the oven to 400 degrees F (200 degrees C). 
 
-2. Whisk flour, baking powder, and salt together in a small bowl; set aside.
+2. Parbake the pie crusts for 10 minutes.
 
-3. Beat eggs in a mixing bowl until smooth. Whisk in flour mixture until no lumps remain. Stir in the Colby-Monterey Jack cheese, cottage cheese, spinach, green chiles, and melted butter until evenly blended. Divide mixture between pie crusts.
+3. Whisk flour, baking powder, and salt together in a small bowl; set aside.
 
-4. Bake quiches in the preheated oven for 15 minutes, then reduce the temperature to 350 degrees F (175 degrees C). Continue baking until quiches are lightly browned, and a knife inserted into the center comes out clean, 35 to 40 minutes.
+4. Beat eggs in a mixing bowl until smooth. Whisk in flour mixture until no lumps remain. Stir in the Colby-Monterey Jack cheese, cottage cheese, spinach, green chiles, and melted butter until evenly blended. Divide mixture between pie crusts.
+
+5. Bake quiches in the preheated oven for 15 minutes, then reduce the temperature to 350 degrees F (175 degrees C). Continue baking until quiches are lightly browned, and a knife inserted into the center comes out clean, 35 to 40 minutes.
 
 ---
 
