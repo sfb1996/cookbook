@@ -9,21 +9,19 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  {%- if site.recipies.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Recipies" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for recipe in site.recipies -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+        <article>
+          <a href="{{ site.baseurl }}{{ recipe.url }}" title="{{ recipe.title }}">
+            <div class="list-body">
+              <span class="list-category category">{{ recipe.category }}</span>
+              <h3 class="list-header title">{{ recipe.title }}</h3>
+            </div>
           </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        </article>
       </li>
       {%- endfor -%}
     </ul>
