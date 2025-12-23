@@ -9,24 +9,34 @@ layout: default
 
   {{ content }}
 
-  {%- if site.recipies.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Recipies" }}</h2>
-    <ul class="post-list">
-      {%- for recipe in site.recipies -%}
-      <li>
+  {%- if site.recipes.size > 0 -%}
+    <ul class="list">
+        {% assign recipes = site.recipes | where: "lang", page.lang %}
+        {% assign sortable_list = "" | split: "" %}
+
+        {% for recipe in recipes %}
+            {% assign sort_key = recipe.category | append: "-" | append: recipe.title %}
+            {% assign line = sort_key | append: "||" | append: recipe.url %}
+            {% assign sortable_list = sortable_list | push: line %}
+        {% endfor %}
+        {% assign sorted_recipes = sortable_list | sort %}
+
+        {% for item in sorted_recipes %}
+            {% assign parts = item | split: "||" %}
+            {% assign recipe_url = parts[1] %}
+            {% assign page = site.recipes | where: "url", recipe_url | first %}
+      <li class="list-recipe">
         <article>
-          <a href="{{ site.baseurl }}{{ recipe.url }}" title="{{ recipe.title }}">
+          <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">
             <div class="list-body">
-              <span class="list-category category">{{ recipe.category }}</span>
-              <h3 class="list-header title">{{ recipe.title }}</h3>
+              <h3 class="list-header title">{{ page.title }}</h3>
+              {% include custom/meta.html %}
             </div>
           </a>
         </article>
       </li>
-      {%- endfor -%}
+        {%- endfor -%}
     </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>

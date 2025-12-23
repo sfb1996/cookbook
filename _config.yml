@@ -51,4 +51,5 @@ plugins:
 #   - vendor/ruby/
 
 collections:
- - recipies
+  recipes:
+    output: true

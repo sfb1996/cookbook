@@ -43,9 +43,52 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+// 2. Dependencies //
+
+@import "core/normalize";
+
+// Open Color: Color scheme for UI design, from https://github.com/yeun/open-color.
+@import "core/open-color";
+
+// Reset: a reset stylesheet to reduce browser inconsistencies, from http://meyerweb.com/eric/tools/css/reset/.
+@import "core/reset";
+
+
+// 3. Authored dependencies //
+
+@import "core/animation";
+@import "core/layout";
+@import "custom/color";
+@import "core/type";
+
+
+// 4. Patters //
+
+@import "core/form";
+@import "core/syntax";
+
+
+// 5. Sections //
+
+//@import "core/metabar";
+//@import "core/navigation";
+//@import "core/hero";
+@import "custom/section";
+@import "core/content";
+// @import "custom/sidebar";
+@import "core/meta";
+// @import "core/footer";
+
+
+// 6. Theme //
+
+// @import "custom/theme";
+
 // Import partials.
 @import
   "minima/base",
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+
