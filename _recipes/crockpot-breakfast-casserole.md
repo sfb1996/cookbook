@@ -4,51 +4,23 @@ ref: crockpot-breakfast-casserole
 layout: recipe
 time: 380
 category: American
-tags:
-  - dinner
-  - crockpot
-ingredients:
-  - name: Frozen Hash Brown Potatoes
-    amount: 32
-    unit: oz
-  - name: bacon (sausage or ham - cooked, crumbed or diced)
-    amount: 1
-    unit: lb
-  - name: shredded sharp cheddar cheese (about 8oz for 2 cups)
-    amount: 2
-    unit: cups
-  - name: green onions (sliced)
-    amount: 2
-    unit: 
-  - name: small white onion (finely diced)
-    amount: 1
-    unit: 
-  - name: red bell pepper (diced)
-    amount: 1
-    unit: 
-  - name: green bell pepper (diced)
-    amount: 1
-    unit: 
-  - name: eggs
-    amount: 12
-    unit: 
-  - name: milk
-    amount: 1
-    unit: cup
-  - name: dry mustard powder
-    amount: 1 and 1/2
-    unit: tsp
-  - name: salt
-    amount: 1
-    unit: tsp
-  - name: garlic powder
-    amount: 1
-    unit: tsp
-  - name: black pepper
-    amount: 1/2
-    unit: tsp
-
+tags: ['dinner', 'crockpot']
 ---
+
+# ingredients:
+- [ ] 32 oz Frozen Hash Brown Potatoes
+- [ ] 1 lb bacon (sausage or ham - cooked, crumbed or diced)
+- [ ] 2 cups shredded sharp cheddar cheese (about 8oz for 2 cups)
+- [ ] 2 green onions (sliced)
+- [ ] 1 small white onion (finely diced)
+- [ ] 1 red bell pepper (diced)
+- [ ] 1 green bell pepper (diced)
+- [ ] 12 eggs
+- [ ] 1 cup milk
+- [ ] 1 and 1/2 tsp dry mustard powder
+- [ ] 1 tsp salt
+- [ ] 1 tsp garlic powder
+- [ ] 1/2 tsp black pepper
 
 # Instructions
 1. If using bacon or sausage, cook and crumble. Drain fat leaving 1 tablespoon in the pan.

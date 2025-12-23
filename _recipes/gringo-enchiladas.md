@@ -4,33 +4,18 @@ ref: gringo-enchiladas
 layout: recipe
 time: 100
 category: Mexican
-tags:
-  - dinner
-ingredients:
-  - name: large chicken breast havles
-    amount: 4
-    unit: 
-  - name: Cream of Chicken Soup
-    amount: 2
-    unit: 10oz cans
-  - name: green chili peppers diced or chopped
-    amount: 1
-    unit: small can
-  - name: sour cream
-    amount: 1
-    unit: pint
-  - name: green onions (sliced - tops included)
-    amount: 3-4
-    unit: 
-  - name: shredded Monterey Jack cheese
-    amount: 2
-    unit: cups
-  - name: tortillas
-    amount: 12
-    unit: 
-  - name: shredded cheddar cheese
-    amount: 2
-    unit: cups
+tags: ['dinner']
+---
+
+# ingredients:
+- [ ] 4 large chicken breast havles
+- [ ] 2 10oz cans Cream of Chicken Soup
+- [ ] 1 small can green chili peppers diced or chopped
+- [ ] 1 pint sour cream
+- [ ] 3-4 green onions (sliced - tops included)
+- [ ] 2 cups shredded Monterey Jack cheese
+- [ ] 12 tortillas
+- [ ] 2 cups shredded cheddar cheese
 
 ---
 

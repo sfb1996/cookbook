@@ -6,63 +6,27 @@ layout: recipe
 time: 45
 category: American
 tags: ['dinner']
-ingredients:
-  - name: boneless, skinless chicken breasts
-    amount: 2
-    unit: 
-  - name: Cajun seasoning (2 for seasoning, 1 1/2 for chicken)
-    amount: 3 1/2
-    unit: tsp
-  - name: flour (3 for chicken, 3 for sauce)
-    amount: 6
-    unit: tbsp
-  - name: olive oil
-    amount: 1-2
-    unit: tbsp
-  - name: butter
-    amount: 3
-    unit: tbsp
-  - name: garlic (minced)
-    amount: 3
-    unit: cloves
-  - name: chicken broth
-    amount: 1 1/2
-    unit: cups
-  - name: heavy cream (can sub half-and-half)
-    amount: 3/4
-    unit: cup
-  - name: honey
-    amount: 1
-    unit: tbsp
-  - name: hot sauce
-    amount: 2
-    unit: tsp
-  - name: Rotel diced tomatoes with green chilies (juice reserved)
-    amount: 10
-    unit: oz
-  - name: cheddar jack cheese shredded (see notes)
-    amount: 3/4
-    unit: cup
-  - name: lime juice
-    amount: 2
-    unit: tsp
-  - name: brown sugar (light recommended)
-    amount: 1
-    unit: tsp
-  - name: mustard powder
-    amount: 1/2
-    unit: tsp
-  - name: oregano
-    amount: 1/2
-    unit: tsp
-  - name: cayenne pepper
-    amount: 1
-    unit: pinch
-  - name: red pepper falkes
-    amount: 1
-    unit: pinch
-
 ---
+
+# ingredients:
+- [ ] 2 boneless, skinless chicken breasts
+- [ ] 3 1/2 tsp Cajun seasoning (2 for seasoning, 1 1/2 for chicken)
+- [ ] 6 tbsp flour (3 for chicken, 3 for sauce)
+- [ ] 1-2 tbsp olive oil
+- [ ] 3 tbsp butter
+- [ ] 3 cloves garlic (minced)
+- [ ] 1 1/2 cups chicken broth
+- [ ] 3/4 cup heavy cream (can sub half-and-half)
+- [ ] 1 tbsp honey
+- [ ] 2 tsp hot sauce
+- [ ] 10 oz Rotel diced tomatoes with green chilies (juice reserved)
+- [ ] 3/4 cup cheddar jack cheese shredded (see notes)
+- [ ] 2 tsp lime juice
+- [ ] 1 tsp brown sugar (light recommended)
+- [ ] 1/2 tsp mustard powder
+- [ ] 1/2 tsp oregano
+- [ ] 1 pinch cayenne pepper
+- [ ] 1 pinch red pepper falkes
 
 # Instructions
 ## Prep Work

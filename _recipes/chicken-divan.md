@@ -4,40 +4,20 @@ ref: chicken-divan
 layout: recipe
 time: 70
 category: American
-tags:
-  - dinner
-ingredients:
-  - name: chicken breast halves
-    amount: 
-    unit: 6
-  - name: broccoli
-    amount: 2
-    unit: 10oz packages
-  - name: Cream of Chicken soup
-    amount: 1
-    unit: can
-  - name: mayonnaise
-    amount: 2/3
-    unit: cup
-  - name: evaporated milk
-    amount: 1/3
-    unit: cup
-  - name: grated cheese
-    amount: 1
-    unit: cup
-  - name: lemon juice
-    amount: 1
-    unit: tsp
-  - name: curry powder
-    amount: 1/2
-    unit: tsp
-  - name: fine dry break crumbs
-    amount: 1/2
-    unit: cup
-  - name: soft margarine
-    amount: 1
-    unit: tbsp
+tags: ['dinner']
 ---
+
+# ingredients:
+ - [ ] 6 chicken breast halves
+ - [ ] 2 10oz packages broccoli
+ - [ ] 1 can Cream of Chicken soup
+ - [ ] 2/3 cup mayonnaise
+ - [ ] 1/3 cup evaporated milk
+ - [ ] 1 cup grated cheese
+ - [ ] 1 tsp lemon juice
+ - [ ] 1/2 tsp curry powder
+ - [ ] 1/2 cup fine dry break crumbs
+ - [ ] 1 tbsp soft margarine
 
 # Instructions
 

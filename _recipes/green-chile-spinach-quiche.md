@@ -5,39 +5,19 @@ layout: recipe
 time: 
 category: American
 tags: ['dinner']
-ingredients:
-  - name: all-purpose flour
-    amount: 1/2
-    unit: cup
-  - name: baking powder
-    amount: 1
-    unit: tsp
-  - name: salt
-    amount: 1
-    unit: tsp
-  - name: eggs
-    amount: 12
-    unit: 
-  - name: shredded Colby-Monterey Jack cheese
-    amount: 1
-    unit: (8 ounce) package
-  - name: small curd cottage cheese
-    amount: 2
-    unit: cups
-  - name: frozen chopped spinach, thawed, and drained
-    amount: 1
-    unit: (10 ounce) package
-  - name: chopped green chiles
-    amount: 2
-    unit: (4 ounce) cans
-  - name: melted butter
-    amount: 1/2
-    unit: cup
-  - name: (9 inch) unbaked pie crusts
-    amount: 2
-    unit: 
-
 ---
+
+# ingredients:
+- [ ] 1/2 cup all-purpose flour
+- [ ] 1 tsp baking powder
+- [ ] 1 tsp salt
+- [ ] 12 eggs
+- [ ] 1 (8 ounce) package shredded Colby-Monterey Jack cheese
+- [ ] 2 cups small curd cottage cheese
+- [ ] 1 (10 ounce) package frozen chopped spinach, thawed, and drained
+- [ ] 2 (4 ounce) cans chopped green chiles
+- [ ] 1/2 cup melted butter
+- [ ] 2 (9 inch) unbaked pie crusts
 
 # Instructions
 1. Preheat the oven to 400 degrees F (200 degrees C). 

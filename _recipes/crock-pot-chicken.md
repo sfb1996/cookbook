@@ -4,30 +4,16 @@ ref: crock-pot-chicken
 layout: recipe
 time: 380
 category: American
-tags:
-  - dinner
-  - crockpot
-ingredients:
-  - name: water
-    amount: 1/2
-    unit: cup
-  - name: chicken breasts
-    amount: 4
-    unit: 
-  - name: Good Seasons Italian Dressing Mix
-    amount: 2
-    unit: package
-  - name: cream cheese
-    amount: 8
-    unit: oz
-  - name: cream of chicken soup
-    amount: 1
-    unit: can
-  - name: rice, noodles or potatoes
-    amount: 
-    unit: 
-
+tags: ['dinner', 'crockpot']
 ---
+
+# ingredients:
+- [ ] 1/2 cup water
+- [ ] 4 chicken breasts
+- [ ] 2 package Good Seasons Italian Dressing Mix
+- [ ] 8 oz cream cheese
+- [ ] 1 can cream of chicken soup
+- [ ] rice, noodles or potatoes
 
 # Instructions
 ## Crock Pot

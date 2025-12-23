@@ -9,38 +9,19 @@ tags:
   - sweet
   - christmas
   - vegetarian
-ingredients:
-  - name: all purpose flour
-    amount: 250
-    unit: g
-  - name: unsalted butter
-    amount: 200
-    unit: g
-  - name: finely ground almonds
-    amount: 100
-    unit: g
-  - name: large egg yolks
-    amount: 2
-    unit: null
-  - name: vanilla extract
-    amount: 1 1/4
-    unit: tsp
-  - name: milk
-    amount: 1
-    unit: tbsp
-  - name: powdered sugar
-    amount: 70
-    unit: g
-  - name: pinch of salt
-    amount: null
-    unit: null
-  - name: icing sugar
-    amount: 100
-    unit: g
-  - name: vanilla sugar
-    amount: 2
-    unit: packages
 ---
+
+# ingredients:
+- [ ] 250 g all purpose flour
+- [ ] 200 g unsalted butter
+- [ ] 100 g finely ground almonds
+- [ ] 2 large egg yolks
+- [ ] 1 1/4 tsp vanilla extract
+- [ ] 1 tbsp milk
+- [ ] 70 g powdered sugar
+- [ ] pinch of salt
+- [ ] 100 g icing sugar
+- [ ] 2 packages vanilla sugar
 
 # Instructions
 

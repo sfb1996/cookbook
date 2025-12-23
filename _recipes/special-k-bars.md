@@ -4,30 +4,16 @@ ref: special-k-bars
 layout: recipe
 time: 25
 category: Dessert
-tags:
-  - scotcheroos
-ingredients:
-  - name: sugar
-    amount: 1/2
-    unit: cup
-  - name: white Karo
-    amount: 1/2
-    unit: cup
-  - name: butterscotch chips
-    amount: 1
-    unit: cup
-  - name: rice krispies
-    amount: 5
-    unit: cups
-  - name: chocolate chips
-    amount: 1 and 1/2
-    unit: cup
-  - name: peanut butter
-    amount: 3/4
-    unit: cup
-
-
+tags: ['scotcheroos']
 ---
+
+# ingredients:
+- [ ] 1/2 cup sugar
+- [ ] 1/2 cup white Karo
+- [ ] 1 cup butterscotch chips
+- [ ] 5 cups rice krispies
+- [ ] 1 and 1/2 cup chocolate chips
+- [ ] 3/4 cup peanut butter
 
 # Instructions
 1. Bring sugar and syrup to a boil, then add peanut butter. Mix well.

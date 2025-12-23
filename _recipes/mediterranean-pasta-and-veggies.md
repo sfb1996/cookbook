@@ -5,10 +5,6 @@ layout: recipe
 time: 
 category: Greek
 tags: ['No Recipe', 'dinner']
-ingredients:
-  - name: 
-    amount: 
-    unit: 
 ---
 
 Coming Soon!

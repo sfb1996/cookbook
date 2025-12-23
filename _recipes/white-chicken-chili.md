@@ -5,54 +5,24 @@ layout: recipe
 time: 
 category: American
 tags: ['dinner']
-ingredients:
-  - name: olive oil
-    amount: 1
-    unit: tbsp
-  - name: small yellow onion (chopped - about 1/2 cup)
-    amount: 1
-    unit: 
-  - name: garlic (finely minced - or aobut 1 1/2 tsp garlic powder)
-    amount: 2
-    unit: cloves
-  - name: low-sodium chicken broth
-    amount: 2 1/2
-    unit: cups
-  - name: diced green chilies
-    amount: 2
-    unit: 4 oz cans
-  - name: ground cumin
-    amount: 1 1/2
-    unit: tsp
-  - name: cayenne pepper
-    amount: 1/4
-    unit: tsp
-  - name: dried oregano
-    amount: 1/2
-    unit: tsp
-  - name: paprika
-    amount: 1/2
-    unit: tsp
-  - name: small lime (juice from)
-    amount: 1/2
-    unit: 
-  - name: salt and freshly ground black pepper to taste
-    amount: 
-    unit: 
-  - name: great northern beans
-    amount: 2
-    unit: 15 oz cans
-  - name: sour cream (or plain Greek yogurt)
-    amount: 1
-    unit: cup
-  - name: corn
-    amount: 1
-    unit: cup
-  - name: cooked chicken (shredded/rotisserie)
-    amount: 2
-    unit: heaping cups
-
 ---
+
+# ingredients:
+- [ ] 1 tbsp olive oil
+- [ ] 1 small yellow onion (chopped - about 1/2 cup)
+- [ ] 2 cloves garlic (finely minced - or aobut 1 1/2 tsp garlic powder)
+- [ ] 2 1/2 cups low-sodium chicken broth
+- [ ] 2 4 oz cans diced green chilies
+- [ ] 1 1/2 tsp ground cumin
+- [ ] 1/4 tsp cayenne pepper
+- [ ] 1/2 tsp dried oregano
+- [ ] 1/2 tsp paprika
+- [ ] 1/2 small lime (juice from)
+- [ ] salt and freshly ground black pepper to taste
+- [ ] 2 15 oz cans great northern beans
+- [ ] 1 cup sour cream (or plain Greek yogurt)
+- [ ] 1 cup corn
+- [ ] 2 heaping cups cooked chicken (shredded/rotisserie)
 
 # Instructions
 1. Heat olive oil in a large (5-6 quart) pot over medium-high heat. Add onion and sauté until softened, 3-5 minutes. Add garlic and cook for 30 seconds.

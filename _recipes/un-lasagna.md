@@ -5,42 +5,20 @@ layout: recipe
 time: 70
 category: Italian
 tags: ['dinner']
-ingredients:
-  - name: ground beef
-    amount: 1 1/2
-    unit: lb
-  - name: sausage
-    amount: 1/2
-    unit: lb
-  - name: spaghetti sauce
-    amount: 40
-    unit: oz
-  - name: mozzarella cheese
-    amount: 1
-    unit: lb
-  - name: lasagna noodles
-    amount: 9
-    unit: 
-  - name: cottage cheese
-    amount: 3
-    unit: cups
-  - name: parsley
-    amount: 2
-    unit: tsp
-  - name: eggs
-    amount: 2
-    unit: 
-  - name: parmesan cheese
-    amount: 1/2
-    unit: cup
-  - name: salt
-    amount: 1
-    unit: tsp
-  - name: pepper
-    amount: 1/2
-    unit: tsp
-
 ---
+
+# ingredients:
+- [ ] 1 1/2 lb ground beef
+- [ ] 1/2 lb sausage
+- [ ] 40 oz spaghetti sauce
+- [ ] 1 lb mozzarella cheese
+- [ ] 9 lasagna noodles
+- [ ] 3 cups cottage cheese
+- [ ] 2 tsp parsley
+- [ ] 2 eggs
+- [ ] 1/2 cup parmesan cheese
+- [ ] 1 tsp salt
+- [ ] 1/2 tsp pepper
 
 # Instructions
 1. Brown meats.

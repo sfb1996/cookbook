@@ -5,38 +5,20 @@ layout: recipe
 time: 150
 category: Dessert
 tags: ['andes', 'mint']
-ingredients:
-  - name: butter
-    amount: 3/4
-    unit: cup
-  - name: light brown sugar
-    amount: 1 1/2
-    unit: cup
-  - name: water
-    amount: 2
-    unit: tbsp
-  - name: semi-sweet chocolate chips (about the whole bag)
-    amount: 2
-    unit: cups
-  - name: eggs
-    amount: 2
-    unit: 
-  - name: flour
-    amount: 2 and 1/2
-    unit: cup
-  - name: baking soda
-    amount: 1 1/4
-    unit: tsp
-  - name: salt
-    amount: 1/2
-    unit: tsp
-  - name: Andes Mints
-    amount: 2
-    unit: packages
-
 ---
 
 *Makes 4 dozen cookies*
+
+# ingredients:
+- [ ] 3/4 cup butter
+- [ ] 1 1/2 cup light brown sugar
+- [ ] 2 tbsp water
+- [ ] 2 cups semi-sweet chocolate chips (about the whole bag)
+- [ ] 2 eggs
+- [ ] 2 and 1/2 cup flour
+- [ ] 1 1/4 tsp baking soda
+- [ ] 1/2 tsp salt
+- [ ] 2 packages Andes Mints
 
 # Instructions
 ## Part 1

@@ -5,38 +5,19 @@ layout: recipe
 time: 30
 category: Asian
 tags: [meat, 'dinner']
-ingredients:
-  - name: sesame oil
-    amount: 1
-    unit: tbsp
-  - name: lean ground beef
-    amount: 1
-    unit: lb
-  - name: garlic, minced
-    amount: 3
-    unit: cloves
-  - name: light brown sugar
-    amount: 1/2
-    unit: cup
-  - name: soy sauce
-    amount: 1/4
-    unit: cup
-  - name: ground ginger
-    amount: 1/4
-    unit: tsp
-  - name: salt and pepper
-    amount:
-    unit:
-  - name: crushed red pepper
-    amount: 1/2 - 1
-    unit: tsp
-  - name: cooked white rice
-    amount: 2 - 3
-    unit: cups
-  - name: green onions, diced
-    amount: 1
-    unit: bunch
 ---
+
+# ingredients:
+- [ ] 1 tbsp sesame oil
+- [ ] 1 lb lean ground beef
+- [ ] 3 cloves garlic, minced
+- [ ] 1/2 cup light brown sugar
+- [ ] 1/4 cup soy sauce
+- [ ] 1/4 tsp ground ginger
+- [ ] salt and pepper
+- [ ] 1/2 - 1 tsp crushed red pepper
+- [ ] 2 - 3 cups cooked white rice
+- [ ] 1 bunch green onions, diced
 
 *Note: We love to eat this with roasted broccoli, carrots, and/or peppers.*
 

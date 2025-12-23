@@ -4,59 +4,26 @@ ref: healthy-sheet-pan-greek-chicken
 layout: recipe
 time: 50
 category: Greek
-tags:
-  - dinner
-ingredients:
-  - name: chicken thighs
-    amount: 5-6
-    unit: 
-  - name: avocado oil or olive oil
-    amount: 1/2
-    unit: cup
-  - name: lemon juice
-    amount: 2
-    unit: tbsp
-  - name: dijon mustard
-    amount: 1
-    unit: tbsp
-  - name: garlic (minced)
-    amount: 1
-    unit: clove
-  - name: dried oregano
-    amount: 1
-    unit: tsp
-  - name: dried thyme
-    amount: 1
-    unit: tsp
-  - name: sea salt
-    amount: 1/2
-    unit: tsp
-  - name: bell pepper
-    amount: 1
-    unit: 
-  - name: large red onion
-    amount: 1/2
-    unit: 
-  - name: medium Yukon gold potatoes
-    amount: 4
-    unit: 
-  - name: cherry tomatoes
-    amount: 1
-    unit: cup
-  - name: capers (or olives)
-    amount: 1/4
-    unit: cup
-  - name: marinated artichoke hearts
-    amount: 1/2
-    unit: cup
-  - name: feta cheese
-    amount: 1/2
-    unit: cup
-  - name: fresh basil
-    amount: 1/3
-    unit: cup
-
+tags: ['dinner']
 ---
+
+# ingredients:
+- [ ] 5-6 chicken thighs
+- [ ] 1/2 cup avocado oil or olive oil
+- [ ] 2 tbsp lemon juice
+- [ ] 1 tbsp dijon mustard
+- [ ] 1 clove garlic (minced)
+- [ ] 1 tsp dried oregano
+- [ ] 1 tsp dried thyme
+- [ ] 1/2 tsp sea salt
+- [ ] 1 bell pepper
+- [ ] 1/2 large red onion
+- [ ] 4 medium Yukon gold potatoes
+- [ ] 1 cup cherry tomatoes
+- [ ] 1/4 cup capers (or olives)
+- [ ] 1/2 cup marinated artichoke hearts
+- [ ] 1/2 cup feta cheese
+- [ ] 1/3 cup fresh basil
 
 # Instructions
 1. Preheat the oven to 425 degrees F. Prepare a large sheet pan by lightly greasing. Place the chicken thighs in a large bowl.
