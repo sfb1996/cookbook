@@ -12,6 +12,14 @@
 .searchbar {
   margin-top: 1rem;
   margin-bottom: 1rem;
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  // the following keep the search bar at the top when
+  // scrolling, but I need more formatting to make it
+  // look nice
+  // position: sticky;
+  // top: 0;
+  // z-index: 1000;
 }
 
 .searchbar-group {
@@ -32,6 +40,7 @@
   font-family: $sans;
   font-size: ms(-1);
   line-height: 2;
+  margin: auto;
 }
 
 .search-icon {
