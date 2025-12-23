@@ -147,7 +147,7 @@
 }
 
 .list-header {
-    display: inline;
+    /*display: inline;
 
     margin-top: .5rem;
     margin-bottom: .25rem;
@@ -165,5 +165,6 @@
 
     .macro & {
       font-weight: $macro-bold;
-    }
+    }*/
+	@include font(header3);
 }

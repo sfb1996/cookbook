@@ -384,5 +384,5 @@ hr {
 time {
   display: inline-block;
 
-  //@include font(app);
+  @include font(app);
 }
