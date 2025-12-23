@@ -1,7 +1,7 @@
 ---
 title: 'Mexican Beef Enchiladas'
 ref: mexican-beef-enchiladas
-image: false
+layout: recipe
 time: 500
 category: Mexican
 tags: ['meat', 'dinner', 'crockpot']

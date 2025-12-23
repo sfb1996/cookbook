@@ -1,7 +1,7 @@
 ---
 title: 'Cream Cheese Honey Puff'
 ref: cream-cheese-honey-puff
-image: false
+layout: recipe
 time: 
 category: American
 tags: ['No Recipe', 'dinner']

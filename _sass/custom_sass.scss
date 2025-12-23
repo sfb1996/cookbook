@@ -43,6 +43,13 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout"
+  //"minima/syntax-highlighting"
+;
+
 // 2. Dependencies //
 
 @import "core/normalize";
@@ -70,7 +77,7 @@ $on-laptop:        800px !default;
 
 // 5. Sections //
 
-//@import "core/metabar";
+@import "core/metabar";
 //@import "core/navigation";
 //@import "core/hero";
 @import "custom/section";
@@ -84,11 +91,5 @@ $on-laptop:        800px !default;
 
 // @import "custom/theme";
 
-// Import partials.
-@import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
-;
 
 

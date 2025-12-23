@@ -1,7 +1,7 @@
 ---
 title: 'Green Chile Spinach Quiche'
 ref: green-chile-spinach-quiche
-image: false
+layout: recipe
 time: 
 category: American
 tags: ['dinner']

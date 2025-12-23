@@ -1,7 +1,7 @@
 ---
 title: Soft Dinner Rolls
 ref: soft-dinner-rolls
-image: false
+layout: recipe
 time: 225
 category: American
 tags: ['bread']

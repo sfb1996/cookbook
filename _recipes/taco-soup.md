@@ -1,7 +1,7 @@
 ---
 title: 'Taco Soup'
 ref: taco-soup
-image: false
+layout: recipe
 time: 
 category: Mexican
 tags: ['No Recipe', 'dinner']
@@ -12,6 +12,4 @@ ingredients:
 ---
 
 Coming Soon!
-
----
 

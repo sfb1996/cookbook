@@ -1,7 +1,7 @@
 ---
 title: 'White Chicken Chili'
 ref: white-chicken-chili
-image: false
+layout: recipe
 time: 
 category: American
 tags: ['dinner']

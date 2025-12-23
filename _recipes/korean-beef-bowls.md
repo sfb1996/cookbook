@@ -1,7 +1,7 @@
 ---
 title: 'Korean Beef Bowls'
 ref: korean-beef-bowls
-image: false
+layout: recipe
 time: 30
 category: Asian
 tags: [meat, 'dinner']

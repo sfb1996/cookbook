@@ -1,7 +1,7 @@
 ---
 title: 'Chicken and Noodles'
 ref: chicken-and-noodles
-image: false
+layout: recipe
 time: 
 category: American
 tags: ['No Recipe', 'dinner']

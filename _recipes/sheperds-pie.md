@@ -1,7 +1,7 @@
 ---
 title: "Shepherd's Pie"
 ref: sheperds-pie
-image: false
+layout: recipe
 time: 
 category: American
 tags: ['No Recipe', 'dinner']
@@ -12,6 +12,4 @@ ingredients:
 ---
 
 Coming Soon!
-
----
 

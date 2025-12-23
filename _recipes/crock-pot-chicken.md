@@ -1,7 +1,7 @@
 ---
 title: Crock Pot Chicken
 ref: crock-pot-chicken
-image: false
+layout: recipe
 time: 380
 category: American
 tags:

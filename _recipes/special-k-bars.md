@@ -1,7 +1,7 @@
 ---
 title: Special K Bars
 ref: special-k-bars
-image: false
+layout: recipe
 time: 25
 category: Dessert
 tags:

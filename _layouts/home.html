@@ -91,7 +91,7 @@ layout: default
         {% assign sortable_list = "" | split: "" %}
 
         {% for recipe in recipes %}
-            {% assign sort_key = recipe.category | append: "-" | append: recipe.title %}
+            {% assign sort_key = "" | append: "-" | append: recipe.title %}
             {% assign line = sort_key | append: "||" | append: recipe.url %}
             {% assign sortable_list = sortable_list | push: line %}
         {% endfor %}

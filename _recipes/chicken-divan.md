@@ -1,7 +1,7 @@
 ---
 title: 'Chicken Divan'
 ref: chicken-divan
-image: false
+layout: recipe
 time: 70
 category: American
 tags:
@@ -39,6 +39,8 @@ ingredients:
     unit: tbsp
 ---
 
+# Instructions
+
 1. Cook and bone chicken breast halves. Cut into bite-sized pieces or shred. Set aside.
 2. Cook broccoli until almost done. Set aside.
 3. Mix bread crumbs with margarine. Set aside.
@@ -46,5 +48,4 @@ ingredients:
 5. Mix sauce, broccoli, and chicken in a large bowl. Spread into a 9x13 pan.
 6. Top the 9x13 pan contents with the bread crumb / margarine mixture.
 7. Bake at 350 degrees F for 25-30 minutes.
----
 

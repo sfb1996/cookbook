@@ -1,7 +1,8 @@
 ---
 title: 'Cajun Chicken'
+layout: recipe
 ref: cajun-chicken
-image: false
+layout: recipe
 time: 45
 category: American
 tags: ['dinner']

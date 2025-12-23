@@ -1,7 +1,7 @@
 ---
 title: Austrian vanilla crescents
 ref: vanilla-crescents
-image: true
+layout: recipe
 time: 60
 category: Dessert
 tags:
@@ -41,6 +41,8 @@ ingredients:
     amount: 2
     unit: packages
 ---
+
+# Instructions
 
 <figure>
   <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-1-large.jpeg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-1.jpeg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-1-small.jpeg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-1.jpeg" alt="You can substitute almond flour for the ground walnuts.">

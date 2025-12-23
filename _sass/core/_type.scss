@@ -73,20 +73,20 @@ $typi: (null: (12px, 2), x-small: 16px, medium: 20px, x-large: 24px);
   @if $style == null {
     color: red;
 
-    font-size: ms(10);
+    @include relative-font-size(5);
     @warn "Mixin font() received no input! Please provide a style.";
   }
   @else if $style == "title" {
     color: palette(gray, dark);
 
-    font-size: ms(4);
+    @include relative-font-size(3);
     font-weight: $sans-bold;
 
     line-height: 1.4;
 
-    a {
+    /*a {
       background-size: .05em 2px, .05em 2px, 2px 2px;
-    }
+    }*/
 
     .serif & {
       font-weight: $serif-bold;
@@ -102,7 +102,7 @@ $typi: (null: (12px, 2), x-small: 16px, medium: 20px, x-large: 24px);
 
     clear: right;
 
-    font-size: ms(3);
+    @include relative-font-size(2);
     font-weight: $sans-bold;
 
     line-height: 1.25;
@@ -137,7 +137,7 @@ $typi: (null: (12px, 2), x-small: 16px, medium: 20px, x-large: 24px);
     margin-top: .5rem;
     margin-bottom: .25rem;
 
-    font-size: ms(2);
+    @include relative-font-size(1.75);
     font-weight: $sans-bold;
 
     line-height: 1.25;
@@ -162,7 +162,7 @@ $typi: (null: (12px, 2), x-small: 16px, medium: 20px, x-large: 24px);
 
     color: palette(gray, dark);
 
-    font-size: ms(1);
+    @include relative-font-size(1.5);
     font-weight: $sans-bold;
 
     line-height: 1.25;
@@ -191,7 +191,7 @@ $typi: (null: (12px, 2), x-small: 16px, medium: 20px, x-large: 24px);
   @else if $style == "quote" {
     color: palette(gray, dark);
 
-    font-size: ms(4);
+    @include relative-font-size(1);
 
     line-height: 1.4;
 
@@ -213,7 +213,7 @@ $typi: (null: (12px, 2), x-small: 16px, medium: 20px, x-large: 24px);
     color: palette(gray);
 
     font-family: $sans;
-    font-size: ms(-1);
+    @include relative-font-size(1);
     font-weight: $sans-semibold;
 
     letter-spacing: .25px;

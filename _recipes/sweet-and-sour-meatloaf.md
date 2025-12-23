@@ -1,7 +1,7 @@
 ---
 title: 'Sweet and Sour Meatloaf'
 ref: sweet-and-sour-meatloaf
-image: false
+layout: recipe
 time: 70
 category: American
 tags: ['dinner']

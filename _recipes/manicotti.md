@@ -1,7 +1,7 @@
 ---
 title: 'Manicotti'
 ref: Manicotti
-image: false
+layout: recipe
 time: 
 category: Italian
 tags: ['No Recipe', 'dinner']
@@ -12,6 +12,4 @@ ingredients:
 ---
 
 Coming Soon!
-
----
 

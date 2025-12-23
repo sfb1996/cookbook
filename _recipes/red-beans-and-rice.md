@@ -1,7 +1,7 @@
 ---
 title: Red Beans and Rice
 ref: red-beans-and-rice
-image: false
+layout: recipe
 time: 
 category: American
 tags: ['dinner']
@@ -52,6 +52,4 @@ ingredients:
 4. Add 4 cans of red beans (with water - don't drain) to the pot.
 5. Add the salt, thyme, oregano, garlic powder, and bay leaves
 6. Simmer through until warm and the seasonings are well incorporated.
-
----
 

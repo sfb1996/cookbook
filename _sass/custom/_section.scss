@@ -64,7 +64,7 @@
   padding: .125rem .75rem .125rem 2rem;
   color: palette(gray);
   font-family: $sans;
-  font-size: ms(-1);
+  font-size: relative-font-size(1);
   line-height: 2;
   margin: auto;
 }

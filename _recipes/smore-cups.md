@@ -1,7 +1,7 @@
 ---
 title: S'more Cups
 ref: basic-chocolate-chip
-image: false
+layout: recipe
 time: 25
 category: Dessert
 tags: []

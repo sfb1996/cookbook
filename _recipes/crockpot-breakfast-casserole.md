@@ -1,7 +1,7 @@
 ---
 title: Crock Pot Breakfast Casserole
 ref: crockpot-breakfast-casserole
-image: false
+layout: recipe
 time: 380
 category: American
 tags:

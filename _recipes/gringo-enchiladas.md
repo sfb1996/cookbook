@@ -1,7 +1,7 @@
 ---
 title: 'Gringo Enchiladas'
 ref: gringo-enchiladas
-image: false
+layout: recipe
 time: 100
 category: Mexican
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Mediterranean Pasta and Veggies'
 ref: mediterranean-pasta-and-vegies
-image: false
+layout: recipe
 time: 
 category: Greek
 tags: ['No Recipe', 'dinner']
@@ -12,6 +12,4 @@ ingredients:
 ---
 
 Coming Soon!
-
----
 

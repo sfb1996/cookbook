@@ -1,7 +1,7 @@
 ---
 title: Chocolate Mint Cookies
 ref: chocolate-mint-cookies
-image: false
+layout: recipe
 time: 150
 category: Dessert
 tags: ['andes', 'mint']

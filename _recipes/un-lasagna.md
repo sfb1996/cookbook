@@ -1,7 +1,7 @@
 ---
 title: 'Un-Lasagna'
 ref: un-lasagna
-image: false
+layout: recipe
 time: 70
 category: Italian
 tags: ['dinner']
@@ -51,6 +51,4 @@ ingredients:
 6. Cover and bake at 350 degrees for 30 minutes.
 7. Uncover and bake 20 minutes more.
 8. Let stand before serving.
-
----
 
