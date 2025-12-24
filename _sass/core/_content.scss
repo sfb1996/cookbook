@@ -47,7 +47,7 @@
     @include font(header3);
 
     font-family: $sans;
-    font-size: ms(0);
+    font-size: relative-font-size(1.25);
     font-weight: $sans-bold;
   }
 
@@ -107,6 +107,7 @@
     margin-top: 1rem;
     margin-bottom: 1rem;
     clear: right;
+    @include font(body);
   }
 
   p.message {
