@@ -26,7 +26,7 @@ layout: default
         ul = document.getElementById("recipeList");
         li = ul.getElementsByTagName("li");
 
-        var filters = input.value.toLowerCase().split(/,\s*/).filter(
+        var filters = input.value.toLowerCase().split(/\s+/).filter(
             x => { return "".indexOf(x) == -1; }
         );
 
@@ -53,7 +53,7 @@ layout: default
 
                 // find in tags
                 var tags = a.getElementsByTagName("div")[0].getElementsByTagName("div")[0].getElementsByTagName("span")[1].getElementsByTagName("span")[0].textContent.toLowerCase();
-                var tagsList = tags.split(/,\s*/);
+                var tagsList = tags.split(/\s+/);
 
                 var k;
                 for( k = 0; k < tagsList.length; k++) {
