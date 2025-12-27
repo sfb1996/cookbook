@@ -52,7 +52,8 @@ layout: default
                 }
 
                 // find in tags
-                var tags = a.getElementsByTagName("div")[0].getElementsByTagName("div")[0].getElementsByTagName("span")[1].getElementsByTagName("span")[-1].textContent.toLowerCase();
+                var cookTimeAndOrTags = a.getElementsByTagName("div")[0].getElementsByTagName("div")[0].getElementsByTagName("span")[1];
+                var tags = cookTimeAndOrTags.getElementsByTagName("span")[cookTimeAndOrTags.length-1].textContent.toLowerCase();
                 var tagsList = tags.split(/,\s*/);
 
                 var k;
