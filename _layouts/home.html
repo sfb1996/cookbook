@@ -52,8 +52,8 @@ layout: default
                 }
 
                 // find in tags
-                var tags = a.getElementsByTagName("div")[0].getElementsByTagName("div")[0].getElementsByTagName("span")[1].getElementsByTagName("span")[0].textContent.toLowerCase();
-                var tagsList = tags.split(/\s+/);
+                var tags = a.getElementsByTagName("div")[0].getElementsByTagName("div")[0].getElementsByTagName("span")[1].getElementsByTagName("span")[-1].textContent.toLowerCase();
+                var tagsList = tags.split(/,\s*/);
 
                 var k;
                 for( k = 0; k < tagsList.length; k++) {
