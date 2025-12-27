@@ -7,7 +7,7 @@ category: Italian
 tags: ['dinner', 'meat']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 16 oz potato gnocchi
 - [ ] 1 yellow/red bell peppers (chopped)
 - [ ] 1 pint cherry tomatoes (or grape tomatoes)
@@ -24,6 +24,7 @@ tags: ['dinner', 'meat']
 - [ ] fresh basil
 - [ ] balsamic glaze
 - [ ] vegan parmesan (optional)
+
 ---
 
 *A single-dish, roasted vegetable and chickpea gnocchi dish that anyone can make!*
