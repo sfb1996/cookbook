@@ -52,17 +52,12 @@ layout: default
                 }
 
                 // find in tags
-                // var cookTimeAndOrTags = a.getElementsByTagName("div")[0].getElementsByTagName("div")[0].getElementsByTagName("span")[1].getElementsByTagName("span");
-                // var tags = cookTimeAndOrTags[cookTimeAndOrTags.length-1].textContent.toLowerCase();
                 var tagsQ = a.getElementsByClassName("tags");
                 var tags = "";
                 if( tagsQ.length > 0 ) {
-                  window.alert("found them.");
                     tags = tagsQ[0].textContent.toLowerCase();
                 }
-              window.alert(tags);
                 tagsList = tags.split(/,\s*/);
-                window.alert(tagsList);
 
                 var k;
                 for( k = 0; k < tagsList.length; k++) {
@@ -70,7 +65,6 @@ layout: default
                     if( tag.indexOf(filter) > -1 ) {
                         found = true;
                     }
-                  window.alert("searching: " + txtValue + ", " + tag + " : " + filter);
                 }
 
                 // find in category
