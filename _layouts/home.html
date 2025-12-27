@@ -57,11 +57,12 @@ layout: default
                 var tagsQ = a.getElementsByClassName("tags");
                 var tags = "";
                 if( tagsQ.length > 0 ) {
-                  window.alert("found them.")
+                  window.alert("found them.");
                     tags = tagsQ[0];
                 }
+              window.alert(tags);
                 tagsList = tags.split(/,\s*/);
-              window.alert(tagsList);
+                window.alert(tagsList);
 
                 var k;
                 for( k = 0; k < tagsList.length; k++) {
