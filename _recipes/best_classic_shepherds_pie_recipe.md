@@ -37,23 +37,23 @@ tags: ['dinner']
 
 # Instructions
 
-**Make the Meat Filling**
-
-1. Add the oil to a large skillet and place it over medium-high heat for 2 minutes. Add the onions. Cook 5 minutes, stirring occasionally.
-2. Add the ground beef (or ground lamb) to the skillet and break it apart with a wooden
-spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook for 6-8 minutes, until the meat is browned, stirring occasionally.
-3. Add the Worcestershire sauce and garlic. Stir to combine. Cook for 1 minute.
-4. Add the flour and tomato paste. Stir until well incorporated and no clumps of tomato paste remain.
-5. Add the broth, frozen peas and carrots, and frozen corn. Bring the liquid to a boil then reduce to simmer. Simmer for 5 minutes, stirring occasionally.
-6. Set the meat mixture aside. Preheat oven to 400 degrees F.
-
 **Make the potato topping**
 
-{:start="7"}
-7. Place the potatoes in a large pot. Cover the potatoes with water. Bring the water to a boil. Reduce to a simmer. Cook until potatoes are fork tender, 10-15 minutes.
-8. Drain the potatoes in a colander. Return the potatoes to the hot pot. Let the potatoes rest in the hot pot for 1 minute to evaporate any remaining liquid.
-9. Add butter, half & half, garlic powder, salt, and pepper. Mash the potatoes and stir until all the ingredients are mixed together.
-10. Add the parmesan cheese to the potatoes. Stir until well combined.
+1. Place the potatoes in a large pot. Cover the potatoes with water. Bring the water to a boil. Reduce to a simmer. Cook until potatoes are fork tender, 10-15 minutes.
+2. Drain the potatoes in a colander. Return the potatoes to the hot pot. Let the potatoes rest in the hot pot for 1 minute to evaporate any remaining liquid.
+3. Add butter, half & half, garlic powder, salt, and pepper. Mash the potatoes and stir until all the ingredients are mixed together.
+4. Add the parmesan cheese to the potatoes. Stir until well combined.
+
+**Make the Meat Filling**
+
+{:start="5"}
+5. Add the oil to a large skillet and place it over medium-high heat for 2 minutes. Add the onions. Cook 5 minutes, stirring occasionally.
+6. Add the ground beef (or ground lamb) to the skillet and break it apart with a wooden
+spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook for 6-8 minutes, until the meat is browned, stirring occasionally.
+7. Add the Worcestershire sauce and garlic. Stir to combine. Cook for 1 minute.
+8. Add the flour and tomato paste. Stir until well incorporated and no clumps of tomato paste remain.
+9. Add the broth, frozen peas and carrots, and frozen corn. Bring the liquid to a boil then reduce to simmer. Simmer for 5 minutes, stirring occasionally.
+10. Set the meat mixture aside. Preheat oven to 400 degrees F.
 
 **Assemble the casserole**
 
