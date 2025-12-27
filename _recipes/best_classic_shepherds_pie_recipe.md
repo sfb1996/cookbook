@@ -53,13 +53,13 @@ spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook f
 7. Place the potatoes in a large pot. Cover the potatoes with water. Bring the water to a boil. Reduce to a simmer. Cook until potatoes are fork tender, 10-15 minutes.
 8. Drain the potatoes in a colander. Return the potatoes to the hot pot. Let the potatoes rest in the hot pot for 1 minute to evaporate any remaining liquid.
 9. Add butter, half & half, garlic powder, salt, and pepper. Mash the potatoes and stir until all the ingredients are mixed together.
-9. Add the parmesan cheese to the potatoes. Stir until well combined.
+10. Add the parmesan cheese to the potatoes. Stir until well combined.
 
 **Assemble the casserole**
 
-{:start="10"}
-10. Pour the meat mixture into a 9x9 (or 7x11) inch baking dish. Spread it out into an even layer. Spoon the mashed potatoes on top of the meat. Carefully spread into an even layer.
-11. If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn’t bubble over into your oven. Bake uncovered for 25-30 minutes (see note 12). Cool for 15 minutes before serving.
+{:start="11"}
+11. Pour the meat mixture into a 9x9 (or 7x11) inch baking dish. Spread it out into an even layer. Spoon the mashed potatoes on top of the meat. Carefully spread into an even layer.
+12. If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn’t bubble over into your oven. Bake uncovered for 25-30 minutes (see note 2). Cool for 15 minutes before serving.
 
 ---
 
