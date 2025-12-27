@@ -58,7 +58,7 @@ layout: default
                 var tags = "";
                 if( tagsQ.length > 0 ) {
                   window.alert("found them.");
-                    tags = tagsQ[0];
+                    tags = tagsQ[0].textContent.toLowerCase();
                 }
               window.alert(tags);
                 tagsList = tags.split(/,\s*/);
