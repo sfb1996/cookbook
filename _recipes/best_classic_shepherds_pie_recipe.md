@@ -1,5 +1,5 @@
 ---
-title: 'Shepherd’s Pie Recipe'
+title: "Shepherd’s Pie Recipe"
 layout: recipe
 ref: best-classic-shepherds-pie-recipe
 layout: recipe
