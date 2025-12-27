@@ -1,5 +1,5 @@
 ---
-title: 'Cia's Dinner Rolls'
+title: "Cia's Dinner Rolls"
 layout: recipe
 ref: cias-rolls
 layout: recipe
