@@ -32,7 +32,7 @@ tags: ['dinner', 'meat']
 1. Preheat oven to 400F.
 2. Put parchment paper on a baking sheet. 
 3. Add he gnocchi, bell peppers, tomatoes, red onion, chickpeas, zucchini, squash, and sausage to the sheet pan. Drizzle with olive oil and coat with the other seasoning items. Toss until evenly mixed.
-4. Bake for 25 minutes, until the tomatoes are burst and the gnocchi has a slight crisp. In the last few minutes, you can broil to brown the gnocchi and tomatoes a bit, if desired.
+4. Bake for 35-40 minutes, until the tomatoes are burst and the gnocchi has a slight crisp. In the last few minutes, you can broil to brown the gnocchi and tomatoes a bit, if desired.
 5. Serve immediately with fresh basil, balsamic glaze and vegan parmesan.
 
 ---
