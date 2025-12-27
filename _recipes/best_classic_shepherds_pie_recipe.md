@@ -36,7 +36,9 @@ tags: ['dinner']
 - [ ] 1/4 cup parmesan cheese
 
 # Instructions
+
 **Make the Meat Filling**
+
 1. Add the oil to a large skillet and place it over medium-high heat for 2 minutes. Add the onions. Cook 5 minutes, stirring occasionally.
 2. Add the ground beef (or ground lamb) to the skillet and break it apart with a wooden
 spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook for 6-8 minutes, until the meat is browned, stirring occasionally.
@@ -46,6 +48,7 @@ spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook f
 6. Set the meat mixture aside. Preheat oven to 400 degrees F.
 
 **Make the potato topping**
+
 {:start="7"}
 7. Place the potatoes in a large pot. Cover the potatoes with water. Bring the water to a boil. Reduce to a simmer. Cook until potatoes are fork tender, 10-15 minutes.
 8. Drain the potatoes in a colander. Return the potatoes to the hot pot. Let the potatoes rest in the hot pot for 1 minute to evaporate any remaining liquid.
@@ -53,9 +56,10 @@ spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook f
 9. Add the parmesan cheese to the potatoes. Stir until well combined.
 
 **Assemble the casserole**
+
 {:start="10"}
 10. Pour the meat mixture into a 9x9 (or 7x11) inch baking dish. Spread it out into an even layer. Spoon the mashed potatoes on top of the meat. Carefully spread into an even layer.
-11. If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn’t bubble over into your oven. Bake uncovered for 25-30 minutes (see note 2). Cool for 15 minutes before serving.
+11. If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn’t bubble over into your oven. Bake uncovered for 25-30 minutes (see note 12). Cool for 15 minutes before serving.
 
 ---
 
