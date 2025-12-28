@@ -29,8 +29,16 @@ tags: ['bread', 'cinnamon rolls']
 3. Add ~5 cups of flour until the dough holds together in a ball and pulls away from the edges of the mixing bowl.
 4. Mix for 9 minutes on medium speed (or you can knead by hand).
 5. Let dough rise for 1 hour.
+
+**first rise**
+
+{:start="6"}
 6. Split the dough in fourths. With each fourth, roll out the dough and cut in 12 triangles. Roll up the triangles and place on greased cookie sheets.
 7. Let the rolls rise for another hour (covered).
+
+**second rise**
+
+{:start="8"}
 8. Bake at 375°F for 14-15 minutes.
 
 ---
