@@ -46,13 +46,13 @@ tags: ['bread', 'cinnamon rolls']
 
 ### Ingredients for dough
 - [ ] butter
-- [ ] cinnamon
+- [ ] cinnamon sugar
 
 ### Instructions
 1. Make dough as above except you split the dough in 2 instead of 4. 
 2. Roll out dough.
 3. Rub butter over the dough.
-4. Sprinkle cinnamon.
+4. Sprinkle cinnamon sugar over the dough. 
 5. Roll up dough.
 6. Cut each half into 18 slices.
 7. Put onto 3 pans of 12 each.
