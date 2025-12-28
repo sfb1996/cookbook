@@ -10,7 +10,7 @@ tags: ['bread', 'cinnamon rolls']
 
 *Makes 4 dozen rolls*
 
-*[Cinnamon roll additions](#-For-Cinnamon-Rolls)
+*[Cinnamon roll additions](#-for-cinnamon-rolls)*
 
 # Ingredients
 
