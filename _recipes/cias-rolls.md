@@ -5,7 +5,7 @@ ref: cias-rolls
 layout: recipe
 time: 45
 category: American
-tags: ['bread']
+tags: ['bread', 'cinnamon rolls']
 ---
 
 # Ingredients
@@ -32,7 +32,7 @@ tags: ['bread']
 ---
 
 # Notes
-11/27/2025 - Added the yeast to all of the water and 2 cups of flour and let sit to activate yeast and then added the other 2 cups of flour. Had to add closer to 6 cups of flour in step 3 and even then the dough didn’t fully pull away from the edges of the bowl after the flour was fully stirred in. After rising for one hour, split the dough in half and put one half in the fridge while working with the other half (because we only have 2 cookie sheets). Ended up pulling the second half of the dough out of the fridge early and rolling into balls and placing in 9x13 pans. The rolls in the cookie sheets seemed to be done after about 11 minutes on the top rack and were definitely done by 12-13 minutes on the bottom rack (probably should have pulled them out a minute or two sooner). I also tried turning the oven temperature down slightly (in between 375°F and 350°F) while the second batch of rolls were in the oven. The rolls in the 9x13 pan were cooked for like 15 (or a little more?) minutes at between 350-375°F and then the other pan was cooked at like 350°F for 16-17 minutes plus a couple minutes at 375°F. The second ones are maybe a little too done on the bottom and the first ones are maybe not quite done enough on the bottom.
+> 11/27/2025 - Added the yeast to all of the water and 2 cups of flour and let sit to activate yeast and then added the other 2 cups of flour. Had to add closer to 6 cups of flour in step 3 and even then the dough didn’t fully pull away from the edges of the bowl after the flour was fully stirred in. After rising for one hour, split the dough in half and put one half in the fridge while working with the other half (because we only have 2 cookie sheets). Ended up pulling the second half of the dough out of the fridge early and rolling into balls and placing in 9x13 pans. The rolls in the cookie sheets seemed to be done after about 11 minutes on the top rack and were definitely done by 12-13 minutes on the bottom rack (probably should have pulled them out a minute or two sooner). I also tried turning the oven temperature down slightly (in between 375°F and 350°F) while the second batch of rolls were in the oven. The rolls in the 9x13 pan were cooked for like 15 (or a little more?) minutes at between 350-375°F and then the other pan was cooked at like 350°F for 16-17 minutes plus a couple minutes at 375°F. The second ones are maybe a little too done on the bottom and the first ones are maybe not quite done enough on the bottom.
 
 ---
 
@@ -54,7 +54,7 @@ tags: ['bread']
 3. Rub butter over the dough.
 4. Sprinkle cinnamon.
 5. Roll up dough.
-6. Cut each half into 8 slices.
+6. Cut each half into 18 slices.
 7. Put onto 3 pans of 12 each.
 8. Bake at 375 for 16-17 minutes.
 9. drizzle cream cheese frosting over fresh rolls. 
