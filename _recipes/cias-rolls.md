@@ -41,7 +41,7 @@ tags: ['bread']
 ### Ingredients
 - [ ] 1 stick butter (plus more to stick connamon to dough)
 - [ ] 6 oz cream cheese
-- [ ] 3 cups powder sugar
+- [ ] 3 cups powdered sugar
 - [ ] 1 tsp vanilla
 
 ### Ingredients for dough
