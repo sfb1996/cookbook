@@ -8,6 +8,10 @@ category: American
 tags: ['bread', 'cinnamon rolls']
 ---
 
+*Makes 4 dozen rolls*
+
+*[Cinnamon roll additions](#-For-Cinnamon-Rolls)
+
 # Ingredients
 
 - [ ] 3 cups warm water
