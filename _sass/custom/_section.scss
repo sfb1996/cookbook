@@ -30,7 +30,7 @@
   //-webkit-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
   //-moz-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
   //box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
-  opacity: 0.9;
+  opacity: 1;
   &::after {
       display: flex;
 
@@ -51,8 +51,6 @@
 .searchbar-group {
   display: inline-block;
   margin: .25rem 1rem .25rem 0;
-  background-color: $background-color;
-  opacity: 1;
 }
 
 .searchbar-search {
