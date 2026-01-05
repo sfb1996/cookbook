@@ -3,35 +3,43 @@ title: 'Cajun Chicken'
 layout: recipe
 ref: cajun-chicken
 layout: recipe
-time: 45
+time: 60
 category: American
 tags: ['dinner']
 ---
 
 # ingredients:
+
+*Served over rice*
+
+## Chicken
 - [ ] 2 boneless, skinless chicken breasts
-- [ ] 3 1/2 tsp Cajun seasoning (2 for seasoning, 1 1/2 for chicken)
-- [ ] 6 tbsp flour (3 for chicken, 3 for sauce)
+- [ ] 1.5 tsp Cajun seasoning
+- [ ] 3 tbsp flour
 - [ ] 1-2 tbsp olive oil
-- [ ] 3 tbsp butter
-- [ ] 3 cloves garlic (minced)
+
+## Sauce
 - [ ] 1 1/2 cups chicken broth
 - [ ] 3/4 cup heavy cream (can sub half-and-half)
 - [ ] 1 tbsp honey
 - [ ] 2 tsp hot sauce
-- [ ] 10 oz Rotel diced tomatoes with green chilies (juice reserved)
-- [ ] 3/4 cup cheddar jack cheese shredded (see notes)
-- [ ] 2 tsp lime juice
+- [ ] 2 tsp Cajun seasoning
 - [ ] 1 tsp brown sugar (light recommended)
 - [ ] 1/2 tsp mustard powder
 - [ ] 1/2 tsp oregano
 - [ ] 1 pinch cayenne pepper
-- [ ] 1 pinch red pepper falkes
+- [ ] 1 pinch red pepper flakes
+- [ ] 10 oz Rotel diced tomatoes with green chilies (juice reserved)
+- [ ] 3 tbsp flour
+- [ ] 3 tbsp butter
+- [ ] 3 cloves garlic (minced)
+- [ ] 3/4 cup cheddar jack cheese shredded (see notes)
+- [ ] 2 tsp lime juice
 
 # Instructions
 ## Prep Work
 1. Drain and reserve the juice from the diced tomatoes, we’ll use the liquid to deglaze that skillet after searing the chicken. (You should have about 1⁄4 cup.)
-2. Combine the chickenbroth, heavycream, honey, hotsauce, and seasonings and set aside.
+2. Combine the chicken broth, heavy cream, honey, hot sauce, and seasonings and set aside.
 <br/>
 <br/>
 
@@ -49,20 +57,23 @@ tags: ['dinner']
 4. Add the chicken broth mixture in small splashes, stirring continuously. (This is the mixture that we combined in step 1 of prep work.)
 5. Bring the sauce to a boil, then reduce to a gentle bubble. Add the drained tomatoes and let it simmer and reduce for 5-7 minutes. During this time the flavors will meld, and the sauce will thicken and concentrate.
 6. Reduce heat to low. Slowly sprinkle in the cheese, stirring continuously, until melted and combined. Slowly stir in the lime juice.
-7. Add the chicken back and spoon the sauce on top. Let it simmer and reduce for 4 minutes, uncovered. Add the fresh lime wedges to the skillet and simmer for 1 more minute. Remove from heat. Sprinkle with cilantro and serve with rice, beans, or salad! (See notes for rice cooking tips.)
+7. Add the chicken back and spoon the sauce on top. Let it simmer and reduce for 4 minutes, uncovered. Remove from heat. Sprinkle with cilantro and serve with rice, beans, or salad! (See notes for rice cooking tips.)
 
 ---
 
 # Notes
 ## Pro Tips:
 **Cajun Seasoning**: I use McCormick Cajun Seasoning, consider using reduced or no sodium seasoning if preferred.
-Hot Sauce: I use Frank's Hot Sauce for this recipe.
+
+**Hot Sauce**: I use Frank's Hot Sauce for this recipe.
 
 **Tomatoes**: If you can’t eat tomatoes, use 1⁄4 cup dry white wine or chicken broth to deglaze the skillet after searing the chicken.
 
 **Cheese**: Cheddar Jack, Monterey Jack, Cheddar, and Mozzarella are all great options for this, I like to use a combination of cheeses. Shred it from a block, packaged shredded cheese doesn’t melt quite as well. If using mozzarella, use low moisture/whole milk.
 
-**Heat Level**: For less heat, use just 1 tsp. of hot sauce and omit the cayenne/red pepper flakes. You can also use regular diced tomatoes instead of Rotel with green chilies. Additions: Black beans and/or corn can also be added to this dish, you can add them when the tomatoes are added.
+**Heat Level**: For less heat, use just 1 tsp. of hot sauce and omit the cayenne/red pepper flakes. You can also use regular diced tomatoes instead of Rotel with green chilies. 
+
+**Additions**: Black beans and/or corn can also be added to this dish, you can add them when the tomatoes are added.
 
 ## Storage:
 Store in an airtight container and refrigerate for up to 3 days or freeze for up to 3 months. Leftovers do freeze fairly well!
