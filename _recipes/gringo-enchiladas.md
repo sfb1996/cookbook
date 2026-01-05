@@ -17,8 +17,6 @@ tags: ['dinner']
 - [ ] 12 tortillas
 - [ ] 2 cups shredded cheddar cheese
 
----
-
 # Instructions
 1. Cook chicken breasts, skin, bone, and dice; set aside. (May be done in advance and refrigerated, covered).
 2. In large bowl combine soup, chili peppers, sour cream, and green onions. Add Jack cheese. Remove 2 cups of the mixture and add diced chicken to the 2 cups.
@@ -28,4 +26,4 @@ tags: ['dinner']
 
 ---
 
-*NOTE: Casseroles can be made a day or two ahead (this adds to flavor) and refrigerated, uncooked, until the time to bake. You can also use canned chicken.
+*NOTE: Casseroles can be made a day or two ahead (this adds to flavor) and refrigerated, uncooked, until the time to bake. You can also use canned chicken.*
