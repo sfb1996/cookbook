@@ -8,7 +8,7 @@ tags: ['dinner']
 ---
 
 # ingredients:
-- [ ] 4 large chicken breast havles
+- [ ] 4 large chicken breast halves
 - [ ] 2 10oz cans Cream of Chicken Soup
 - [ ] 1 small can green chili peppers diced or chopped
 - [ ] 1 pint sour cream
