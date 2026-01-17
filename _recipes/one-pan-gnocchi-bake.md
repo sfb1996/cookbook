@@ -2,7 +2,7 @@
 title: 'One Pan Gnocchi Bake'
 ref: one-pan-gnocchi-bake
 layout: recipe
-time: 35
+time: 35 min
 category: Italian
 tags: ['dinner', 'meat']
 ---

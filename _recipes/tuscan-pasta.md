@@ -2,7 +2,7 @@
 title: 'Tuscan Pasta'
 ref: tuscan-pasta
 layout: recipe
-time: 20
+time: 20 min
 category: Italian
 tags: ['dinner', 'meat']
 ---

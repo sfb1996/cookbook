@@ -3,7 +3,7 @@ title: 'Cajun Chicken'
 layout: recipe
 ref: cajun-chicken
 layout: recipe
-time: 60
+time: 1 hr
 category: American
 tags: ['dinner']
 ---

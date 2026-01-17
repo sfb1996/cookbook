@@ -2,7 +2,7 @@
 title: 'Lemon Chicken and Rice Casserole'
 ref: lemon-chicken
 layout: recipe
-time: 60
+time: 1 hr
 category: American
 tags: [meat, 'dinner']
 ---

@@ -3,7 +3,7 @@ title: "Cia's Dinner Rolls"
 layout: recipe
 ref: cias-rolls
 layout: recipe
-time: 45
+time: 4 hr
 category: American
 tags: ['bread', 'cinnamon rolls']
 ---

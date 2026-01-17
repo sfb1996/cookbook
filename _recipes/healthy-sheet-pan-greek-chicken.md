@@ -2,7 +2,7 @@
 title: Healthy Sheet Pan Greek Chicken
 ref: healthy-sheet-pan-greek-chicken
 layout: recipe
-time: 50
+time: 50 min
 category: Greek
 tags: ['dinner']
 ---

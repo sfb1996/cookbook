@@ -2,7 +2,7 @@
 title: 'Green Chile Spinach Quiche'
 ref: green-chile-spinach-quiche
 layout: recipe
-time: 
+time: 1 hr 10 min
 category: American
 tags: ['dinner']
 ---

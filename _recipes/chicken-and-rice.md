@@ -2,9 +2,9 @@
 title: Chicken and Rice
 ref: chicken-and-rice
 layout: recipe
-time: 380
+time: 40 min
 category: American
-tags: ['dinner', 'crockpot']
+tags: ['dinner', 'crockpot', 'instant pot']
 ---
 
 # ingredients:

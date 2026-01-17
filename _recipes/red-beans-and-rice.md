@@ -2,7 +2,7 @@
 title: Red Beans and Rice
 ref: red-beans-and-rice
 layout: recipe
-time: 
+time: 45 min
 category: American
 tags: ['dinner']
 ---

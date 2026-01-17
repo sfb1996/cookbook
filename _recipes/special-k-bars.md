@@ -2,7 +2,7 @@
 title: Special K Bars
 ref: special-k-bars
 layout: recipe
-time: 25
+time: 25 min
 category: Dessert
 tags: ['scotcheroos']
 ---

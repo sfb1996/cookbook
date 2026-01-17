@@ -2,7 +2,7 @@
 title: Picnic Cake
 ref: picnic-cake
 layout: recipe
-time: 50
+time: 50 min
 category: Dessert
 tags: []
 ---

@@ -2,7 +2,7 @@
 title: Basic Chocolate Chip Cookies
 ref: basic-chocolate-chip
 layout: recipe
-time: 25
+time: 25 min
 category: Dessert
 tags: []
 ---

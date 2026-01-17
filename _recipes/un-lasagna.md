@@ -2,7 +2,7 @@
 title: 'Un-Lasagna'
 ref: un-lasagna
 layout: recipe
-time: 70
+time: 1 hr 10 min
 category: Italian
 tags: ['dinner', 'freezer']
 ---

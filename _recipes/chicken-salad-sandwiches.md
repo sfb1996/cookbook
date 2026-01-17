@@ -2,7 +2,7 @@
 title: 'Chicken Salad Sandwiches'
 ref: chicken-salad-sandwiches
 layout: recipe
-time: 15
+time: 15 min
 category: American
 tags: [meat, 'dinner']
 ---

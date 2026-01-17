@@ -2,7 +2,7 @@
 title: 'Chicken Divan'
 ref: chicken-divan
 layout: recipe
-time: 70
+time: 1 hr 10 min
 category: American
 tags: ['dinner']
 ---
