@@ -176,6 +176,8 @@
   background-color: palette($primary);
   color: palette(white);
   text-transform: capitalize;
+  //display: flex;
+    vertical-align: top;
 }
 
 .list-body {
