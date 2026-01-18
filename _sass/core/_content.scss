@@ -155,7 +155,6 @@
     ol li:has(input[type="checkbox"]),
     ol li:has(input[type="radio"]) {
         list-style-type: none; /* Or style them differently */
-        padding-right: 0.5rem;
     }
 
   blockquote:not(.sidebar) {
