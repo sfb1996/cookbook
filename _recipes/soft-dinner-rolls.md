@@ -1,37 +1,21 @@
 ---
 title: Soft Dinner Rolls
 ref: soft-dinner-rolls
-image: false
-time: 225
+layout: recipe
+time: 3 hr 45 min
 category: American
 tags: ['bread']
-ingredients:
-  - name: unsalted butter (plus more for coating dish and topping rolls)
-    amount: 1/4
-    unit: cup
-  - name: granulated sugar
-    amount: 1/4
-    unit: cup
-  - name: kosher salt
-    amount: 1
-    unit: tsp
-  - name: whole milk (divided use)
-    amount: 1 1/4
-    unit: cup
-  - name: active dry yeast (2 1/4 tsp)
-    amount: 1
-    unit: packet
-  - name: large egg (beaten)
-    amount: 1
-    unit: 
-  - name: all-purpose flour (plus maybe some more)
-    amount: 3 and 1/2
-    unit: cup
-  - name: vegetable oil
-    amount: 1
-    unit: tsp
-
 ---
+
+# Ingredients:
+- [ ] 1/4 cup unsalted butter (plus more for coating dish and topping rolls)
+- [ ] 1/4 cup granulated sugar
+- [ ] 1 tsp kosher salt
+- [ ] 1 1/4 cup whole milk (divided use)
+- [ ] 1 packet active dry yeast (2 1/4 tsp)
+- [ ] 1 large egg (beaten)
+- [ ] 3 and 1/2 cup all-purpose flour (plus maybe some more)
+- [ ] 1 tsp vegetable oil
 
 *These homemade Dinner Rolls are so light, fluffy and buttery! A delicious bread recipe that is a great accompaniment to any meal!*
 

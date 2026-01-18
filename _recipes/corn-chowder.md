@@ -1,14 +1,10 @@
 ---
 title: 'Corn Chowder'
 ref: corn-chowder
-image: false
+layout: recipe
 time: 
 category: American
 tags: ['No Recipe', 'dinner']
-ingredients:
-  - name: 
-    amount: 
-    unit: 
 ---
 
 Coming Soon!

@@ -1,0 +1,209 @@
+// ==== SECTION ==== //
+
+// Style the homepage sections here.
+
+// 1. Search
+// 2. Filters
+// 3. List
+
+
+// 1. Search //
+
+.searchbar {
+  padding-top: 1rem;
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+  margin-left: 0;
+  margin-right: 0;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  // the following keep the search bar at the top when
+  // scrolling, but I need more formatting to make it
+  // look nice
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: $background-color;
+  //-webkit-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+  //-moz-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+  //box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+  opacity: 1;
+  &::after {
+      display: flex;
+
+      width: 100%;
+
+      height: .16em;
+
+      margin-top: .5rem;
+
+      border-radius: .08em;
+
+      background-color: palette($primary);
+
+      content: "";
+    }
+}
+
+.searchbar-group {
+  display: inline-block;
+  margin: .25rem 1rem .25rem 0;
+}
+
+.searchbar-search {
+  position: relative;
+}
+
+.search {
+  display: inline-block;
+  width: 18rem;
+  max-width: 100%;
+  padding: .125rem .75rem .125rem 2rem;
+  color: palette(gray);
+  font-family: $sans;
+  font-size: relative-font-size(1);
+  line-height: 2;
+  margin: auto;
+}
+
+.search-icon {
+  top: .1rem;
+  left: .75rem;
+  width: 1rem;
+  height: 1rem;
+  transition: fill $short;
+}
+
+.search-highlight {
+  top: -.1rem;
+  left: 2rem;
+}
+
+
+// 3. Filters
+
+.searchbar-button {
+  @include font(app);
+
+  display: inline-block;
+  margin: 0;
+  padding: .375rem .75rem .275rem;
+  transition: background-color $short, border-color $short, color $short;
+  border: 0;
+  border-radius: .5rem;
+  border: 2px solid palette(gray);
+  outline: none;
+  background-color: $white;
+  color: palette(gray);
+  letter-spacing: 1px;
+  text-decoration: none;
+
+  cursor: pointer;
+
+  &:hover {
+    border-color: palette($primary);
+  }
+}
+
+.searchbar-checkbox {
+  display: none;
+}
+
+.searchbar-select {
+  height: 1.75rem;
+}
+
+.searchbar-checkbox[type=checkbox]:checked ~ .searchbar-button {
+  color: palette(white);
+  background-color: palette($primary);
+  border-color: palette($primary);
+}
+
+
+// 3. List //
+
+.list {
+    margin-left: $spacing-unit / 2;
+    margin-right: $spacing-unit / 2;
+  /*column-gap: 1rem;
+  column-count: 1;
+
+  @include mappy-bp(small large) {
+    column-count: 2;
+  }
+  @include mappy-query(desktop-large) {
+    column-count: 3;
+  }*/
+}
+
+.list-recipe {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: .5rem;
+  transition: box-shadow $short;
+  border-radius: .25rem;
+  box-shadow: 0 4px 16px rgba(palette(gray), .33);
+  overflow: hidden;
+  // HACK: Fix webkit (i.e. Safari and Chrome) bugs related to multi column layout.
+  -webkit-transform: translate3d(0, 0, 0);
+
+  &:hover,
+  &:focus {
+    box-shadow: 0 5px 25px rgba(palette(gray, dark), .33);
+  }
+}
+
+.list-image {
+  display: block;
+  width: 100%;
+  height: 8rem;
+  background-position: center;
+  background-size: cover;
+}
+
+.list-category {
+  @include font(app);
+
+  /*position: absolute;
+  top: 0;
+  left: 1rem;*/
+  padding: .125rem .75rem;
+  transform: translateY(-50%);
+  border-radius: .5rem;
+  background-color: palette($primary);
+  color: palette(white);
+  text-transform: capitalize;
+  //display: flex;
+    vertical-align: top;
+}
+
+.list-body {
+  position: relative;
+  padding: 1.25rem 1rem 1rem;
+}
+
+.list-header {
+    /*display: inline;
+
+    margin-top: .5rem;
+    margin-bottom: .25rem;
+
+    color: palette(gray, dark);
+
+    font-size: ms(1);
+    font-weight: $sans-bold;
+
+    line-height: 1.25;
+
+    .serif & {
+      font-weight: $serif-bold;
+    }
+
+    .macro & {
+      font-weight: $macro-bold;
+    }*/
+	@include font(header3);
+}

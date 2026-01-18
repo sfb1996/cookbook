@@ -1,45 +1,24 @@
 ---
 title: 'Sweet and Sour Meatloaf'
 ref: sweet-and-sour-meatloaf
-image: false
-time: 70
+layout: recipe
+time: 1 hr 10 min
 category: American
 tags: ['dinner']
-ingredients:
-  - name: ground beef
-    amount: 1 1/2
-    unit: lbs
-  - name: dry bread crumbs
-    amount: 1
-    unit: cup
-  - name: salt
-    amount: 1
-    unit: tsp
-  - name: ground black pepper
-    amount: 1/4
-    unit: tsp
-  - name: eggs
-    amount: 2
-    unit: 
-  - name: dried minced onion
-    amount: 1
-    unit: tsp
-  - name: tomato sauce
-    amount: 1
-    unit: 15 oz can
-  - name: brown sugar
-    amount: 2
-    unit: tbsp
-  - name: cider vinegar
-    amount: 2
-    unit: tbsp
-  - name: white sugar
-    amount: 1/2
-    unit: cup
-  - name: prepared mustard
-    amount: 2
-    unit: tsp
 ---
+
+# Ingredients:
+- [ ] 1 1/2 lbs ground beef
+- [ ] 1 cup dry bread crumbs
+- [ ] 1 tsp salt
+- [ ] 1/4 tsp ground black pepper
+- [ ] 2 eggs
+- [ ] 1 tsp dried minced onion
+- [ ] 1 15 oz can tomato sauce
+- [ ] 2 tbsp brown sugar
+- [ ] 2 tbsp cider vinegar
+- [ ] 1/2 cup white sugar
+- [ ] 2 tsp prepared mustard
 
 # Instructions
 1. Preheat oven to 350 degrees F.

@@ -1,57 +1,27 @@
 ---
 title: 'Mexican Beef Enchiladas'
 ref: mexican-beef-enchiladas
-image: false
-time: 500
+layout: recipe
+time: 8 hr 20 min
 category: Mexican
 tags: ['meat', 'dinner', 'crockpot']
-ingredients:
-  - name: boneless chuck or sirloin beef roast
-    amount: 2-3
-    unit: lbs
-  - name: low sodium beef broth
-    amount: 2
-    unit: cups
-  - name: low sodium beef broth
-    amount: 2
-    unit: cups
-  - name: apple cider vinegar
-    amount: 2
-    unit: tbsp
-  - name: salsa (red or green)
-    amount: 1
-    unit: cup
-  - name: ground cumin
-    amount: 1
-    unit: tsp
-  - name: chili powder
-    amount: 1
-    unit: tsp
-  - name: onion powder
-    amount: 1
-    unit: tsp
-  - name: garlic powder
-    amount: 1
-    unit: tsp
-  - name: salt
-    amount: 1
-    unit: tsp
-  - name: pepper
-    amount: 1/2
-    unit: tsp
-  - name: cornstarch or flower
-    amount: 2
-    unit: tbsp
-  - name: flour or corn tortillas
-    amount: 10
-    unit: 6- or 7-inch
-  - name: shredded sharp cheddar cheese
-    amount: 1
-    unit: cup
-  - name: shredded Monterey Jack Cheese
-    amount: 1 1/2
-    unit: cups
 ---
+# Ingredients:
+- [ ] 2-3 lbs boneless chuck or sirloin beef roast
+- [ ] 2 cups low sodium beef broth
+- [ ] 2 cups low sodium beef broth
+- [ ] 2 tbsp apple cider vinegar
+- [ ] 1 cup salsa (red or green)
+- [ ] 1 tsp ground cumin
+- [ ] 1 tsp chili powder
+- [ ] 1 tsp onion powder
+- [ ] 1 tsp garlic powder
+- [ ] 1 tsp salt
+- [ ] 1/2 tsp pepper
+- [ ] 2 tbsp cornstarch or flower
+- [ ] 10 6- or 7-inch flour or corn tortillas
+- [ ] 1 cup shredded sharp cheddar cheese
+- [ ] 1 1/2 cups shredded Monterey Jack Cheese
 
 # Instructions
 1. Put the beef roast in the cooker of choice. Whisk together the broth, vinegar, salsa, cumin, chili powder, onion powder, garlic powder, salt and pepper. Pour over the roast. Cook according to the instructions below

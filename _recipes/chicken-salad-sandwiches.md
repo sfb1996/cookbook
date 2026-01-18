@@ -1,48 +1,25 @@
 ---
 title: 'Chicken Salad Sandwiches'
 ref: chicken-salad-sandwiches
-image: false
-time: 15
+layout: recipe
+time: 15 min
 category: American
 tags: [meat, 'dinner']
-ingredients:
-  - name: cubed or shredded chicken (rotisserie chicken works great)
-    amount: 3
-    unit: cups
-  - name: stalks celery chopped
-    amount: 2
-    unit:
-  - name: pecan halves (or chopped)
-    amount: 2/3
-    unit: cup
-  - name: grapes, halved (red, green, or combination of both)
-    amount: 1
-    unit: cup
-  - name: croissants, sandwich rolls, bread, or wraps for serving
-    amount:
-    unit:
-  - name: light mayo
-    amount: 1/2
-    unit: cup
-  - name: nonfat greek yogurt
-    amount: 1/3
-    unit: cup
-  - name: garlic powder
-    amount: 1/2
-    unit: tsp
-  - name: salt
-    amount: 1/2
-    unit: tsp
-  - name: black pepper
-    amount: 1/4
-    unit: tsp
-  - name: dijon mustard
-    amount: 3
-    unit: tsp
-  - name: honey
-    amount: 2
-    unit: tsp
 ---
+
+# Ingredients:
+- [ ] 3 cups cubed or shredded chicken (rotisserie chicken works great)
+- [ ] 2 stalks celery chopped
+- [ ] 2/3 cup pecan halves (or chopped)
+- [ ] 1 cup grapes, halved (red, green, or combination of both)
+- [ ] croissants, sandwich rolls, bread, or wraps for serving
+- [ ] 1/2 cup light mayo
+- [ ] 1/3 cup nonfat greek yogurt
+- [ ] 1/2 tsp garlic powder
+- [ ] 1/2 tsp salt
+- [ ] 1/4 tsp black pepper
+- [ ] 3 tsp dijon mustard
+- [ ] 2 tsp honey
 
 # Instructions
 1. Stir together all dressing ingredients until smooth, set aside.

@@ -1,0 +1,122 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+   <form class="searchbar">
+      <fieldset class="searchbar-group">
+        <label class="searchbar-search" for="js-search">
+          <input class="search form-input" id="js-search" type="search" placeholder="Search recipes and tags..." autocomplete="off" onkeyup="filterList()" onkeydown="return event.key != 'Enter';">
+          <svg class="search-icon form-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+          </svg>
+          <span class="search-highlight form-highlight"></span>
+        </label>
+      </fieldset>
+   </form>
+
+   <script>
+    function filterList() {
+        var input, ul, li, a, i, displayStyle;
+        input = document.getElementById("js-search");
+        ul = document.getElementById("recipeList");
+        li = ul.getElementsByTagName("li");
+
+        var filters = input.value.toLowerCase().split(/\s+/).filter(
+            x => { return "".indexOf(x) == -1; }
+        );
+
+        for (i = 0; i < li.length; i++) {
+            displayStyle = "none"; // reset
+            if(filters.length == 0) {
+                displayStyle = ""; // show everything with no filters
+            }
+            var article = li[i].getElementsByTagName("article")[0];
+            var a = article.getElementsByTagName("a")[0];
+            var txtValue = a.title.toLowerCase();
+
+            var j;
+            var count = 0;
+            
+            for(j = 0; j < filters.length; j++) {
+                var filter = filters[j];
+                var found = false;
+
+                // find in title
+                if( txtValue.indexOf(filter) > -1 ) {
+                    found = true;
+                }
+
+                // find in tags
+                var tagsQ = a.getElementsByClassName("tags");
+                var tags = "";
+                if( tagsQ.length > 0 ) {
+                    tags = tagsQ[0].textContent.toLowerCase();
+                }
+                tagsList = tags.split(/,\s*/);
+
+                var k;
+                for( k = 0; k < tagsList.length; k++) {
+                    var tag = tagsList[k];
+                    if( tag.indexOf(filter) > -1 ) {
+                        found = true;
+                    }
+                }
+
+                // find in category
+                var category = a.getElementsByTagName("div")[0].getElementsByTagName("div")[0].getElementsByTagName("span")[0].textContent.toLowerCase();
+                if( category.indexOf(filter) > -1) {
+                    found = true;
+                }
+
+                if( found ) {
+                    count++;
+                }
+            }
+
+            // need to find ALL of the filters
+            if( count == filters.length) {
+                displayStyle = "";
+            }
+
+            li[i].style.display = displayStyle;
+            
+        }
+    }
+   </script>
+
+  {%- if site.recipes.size > 0 -%}
+    <ul class="list" id="recipeList">
+        {% assign recipes = site.recipes | where: "lang", page.lang %}
+        {% assign sortable_list = "" | split: "" %}
+
+        {% for recipe in recipes %}
+            {% assign sort_key = "" | append: "-" | append: recipe.title %}
+            {% assign line = sort_key | append: "||" | append: recipe.url %}
+            {% assign sortable_list = sortable_list | push: line %}
+        {% endfor %}
+        {% assign sorted_recipes = sortable_list | sort %}
+
+        {% for item in sorted_recipes %}
+            {% assign parts = item | split: "||" %}
+            {% assign recipe_url = parts[1] %}
+            {% assign page = site.recipes | where: "url", recipe_url | first %}
+      <li class="list-recipe">
+        <article>
+          <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">
+            <div class="list-body">
+              <h3 class="list-header title">{{ page.title }}</h3>
+              {% include custom/meta.html %}
+            </div>
+          </a>
+        </article>
+      </li>
+        {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>

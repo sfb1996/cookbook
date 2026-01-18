@@ -1,17 +1,10 @@
 ---
 title: 'Tacos'
 ref: tacos
-image: false
+layout: recipe
 time: 
 category: Mexican
 tags: ['No Recipe', 'dinner']
-ingredients:
-  - name: 
-    amount: 
-    unit: 
 ---
 
 Coming Soon!
-
----
-

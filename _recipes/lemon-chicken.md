@@ -1,54 +1,27 @@
 ---
 title: 'Lemon Chicken and Rice Casserole'
 ref: lemon-chicken
-image: false
-time: 60
+layout: recipe
+time: 1 hr
 category: American
 tags: [meat, 'dinner']
-ingredients:
-  - name: bone-in, skin-on chicken thighs
-    amount: 4
-    unit: (6-oz)
-  - name: kosher salt
-    amount: 1
-    unit: tsp
-  - name: freshly ground black pepper
-    amount: 1/4
-    unit: tsp
-  - name: olive oil
-    amount: 2
-    unit: tbsp
-  - name: garlic, finely chopped
-    amount: 2
-    unit: cloves
-  - name: uncooked, long-grain white rice (rinsed)
-    amount: 1.5
-    unit: cups
-  - name: cream of chicken soup
-    amount: 1
-    unit: (10.5 oz can)
-  - name: freshly squeezed lemon juice
-    amount: 1
-    unit: tbsp
-  - name: grated lemon zest
-    amount: 1
-    unit: tsp
-  - name: chopped, fresh tarragon, plus more for garnish
-    amount: 1
-    unit: tsp
-  - name: crushed red pepper, plus more for garnish
-    amount: 1/4
-    unit: tsp
-  - name: chicken broth
-    amount: 2
-    unit: cups
-  - name: lemon (sliced into 1/8-inch thick slices)
-    amount: 1
-    unit:
-  - name: chopped, fresh flat-leaf parsley
-    amount: 1
-    unit: tsp
 ---
+
+# Ingredients:
+- [ ] 4 (6-oz) bone-in, skin-on chicken thighs
+- [ ] 1 tsp kosher salt
+- [ ] 1/4 tsp freshly ground black pepper
+- [ ] 2 tbsp olive oil
+- [ ] 2 cloves garlic, finely chopped
+- [ ] 1.5 cups uncooked, long-grain white rice (rinsed)
+- [ ] 1 (10.5 oz can) cream of chicken soup
+- [ ] 1 tbsp freshly squeezed lemon juice
+- [ ] 1 tsp grated lemon zest
+- [ ] 1 tsp chopped, fresh tarragon, plus more for garnish
+- [ ] 1/4 tsp crushed red pepper, plus more for garnish
+- [ ] 2 cups chicken broth
+- [ ] 1 a lemon (sliced into 1/8-inch thick slices)
+- [ ] 1 tsp chopped, fresh flat-leaf parsley
 
 # Instructions
 1. Gather all ingredients.

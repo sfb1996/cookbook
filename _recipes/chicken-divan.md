@@ -1,43 +1,25 @@
 ---
 title: 'Chicken Divan'
 ref: chicken-divan
-image: false
-time: 70
+layout: recipe
+time: 1 hr 10 min
 category: American
-tags:
-  - dinner
-ingredients:
-  - name: chicken breast halves
-    amount: 
-    unit: 6
-  - name: broccoli
-    amount: 2
-    unit: 10oz packages
-  - name: Cream of Chicken soup
-    amount: 1
-    unit: can
-  - name: mayonnaise
-    amount: 2/3
-    unit: cup
-  - name: evaporated milk
-    amount: 1/3
-    unit: cup
-  - name: grated cheese
-    amount: 1
-    unit: cup
-  - name: lemon juice
-    amount: 1
-    unit: tsp
-  - name: curry powder
-    amount: 1/2
-    unit: tsp
-  - name: fine dry break crumbs
-    amount: 1/2
-    unit: cup
-  - name: soft margarine
-    amount: 1
-    unit: tbsp
+tags: ['dinner']
 ---
+
+# Ingredients:
+ - [ ] 6 chicken breast halves
+ - [ ] 2 10oz packages broccoli
+ - [ ] 1 can Cream of Chicken soup
+ - [ ] 2/3 cup mayonnaise
+ - [ ] 1/3 cup evaporated milk
+ - [ ] 1 cup grated cheese
+ - [ ] 1 tsp lemon juice
+ - [ ] 1/2 tsp curry powder
+ - [ ] 1/2 cup fine dry break crumbs
+ - [ ] 1 tbsp soft margarine
+
+# Instructions
 
 1. Cook and bone chicken breast halves. Cut into bite-sized pieces or shred. Set aside.
 2. Cook broccoli until almost done. Set aside.
@@ -46,5 +28,4 @@ ingredients:
 5. Mix sauce, broccoli, and chicken in a large bowl. Spread into a 9x13 pan.
 6. Top the 9x13 pan contents with the bread crumb / margarine mixture.
 7. Bake at 350 degrees F for 25-30 minutes.
----
 

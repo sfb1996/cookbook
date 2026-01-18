@@ -1,28 +1,17 @@
 ---
 title: S'more Cups
 ref: basic-chocolate-chip
-image: false
-time: 25
+layout: recipe
+time: 25 min
 category: Dessert
 tags: []
-ingredients:
-  - name: whole graham crackers finely crushed
-    amount: 7
-    unit: 
-  - name: powdered sugar
-    amount: 1/4
-    unit: cup
-  - name: melted butter
-    amount: 6
-    unit: tbsp
-  - name: milk chocolate candy bars (see note)
-    amount: 4
-    unit: 
-  - name: large marshmallows
-    amount: 12
-    unit: 
-
 ---
+# Ingredients:
+- [ ] 7 whole graham crackers finely crushed
+- [ ] 1/4 cup powdered sugar
+- [ ] 6 tbsp melted butter
+- [ ] 4 milk chocolate candy bars (see note)
+- [ ] 12 large marshmallows
 
 *Note: All chocolate bars will work, and we've even used reese's peanut butter cups (1/2 peanut butter cup per s'more cup)*
 

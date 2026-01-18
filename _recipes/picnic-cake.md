@@ -1,52 +1,26 @@
 ---
 title: Picnic Cake
 ref: picnic-cake
-image: false
-time: 50
+layout: recipe
+time: 50 min
 category: Dessert
 tags: []
-ingredients:
-  - name: chopped dates (yes, dates)
-    amount: 1
-    unit: cup
-  - name: hot water
-    amount: 1 and 1/2
-    unit: cup
-  - name: baking soda
-    amount: 1
-    unit: tsp
-  - name: Crisco
-    amount: 3/4
-    unit: cup
-  - name: eggs
-    amount: 2
-    unit: 
-  - name: sugar
-    amount: 1
-    unit: cup
-  - name: flour (plus 2 tbsp for flouring)
-    amount: 1 and 1/2
-    unit: cup
-  - name: cinnamon
-    amount: 1
-    unit: tsp
-  - name: salt
-    amount: 1/2
-    unit: tsp
-  - name: vanilla
-    amount: 2
-    unit: tsp
-  - name: brown sugar
-    amount: 1/2
-    unit: cup
-  - name: chopped nuts
-    amount: 1/2
-    unit: cup
-  - name: chocolate chips
-    amount: 1
-    unit: cup
-
 ---
+
+# Ingredients:
+- [ ] 1 cup chopped dates (yes, dates)
+- [ ] 1 and 1/2 cup hot water
+- [ ] 1 tsp baking soda
+- [ ] 3/4 cup Crisco
+- [ ] 2 eggs
+- [ ] 1 cup sugar
+- [ ] 1 and 1/2 cup flour (plus 2 tbsp for flouring)
+- [ ] 1 tsp cinnamon
+- [ ] 1/2 tsp salt
+- [ ] 2 tsp vanilla
+- [ ] 1/2 cup brown sugar
+- [ ] 1/2 cup chopped nuts
+- [ ] 1 cup chocolate chips
 
 # Instructions
 1. mix dates, water, and baking soda. Set aside to cool.

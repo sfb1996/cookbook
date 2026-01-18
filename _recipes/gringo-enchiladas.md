@@ -1,38 +1,21 @@
 ---
 title: 'Gringo Enchiladas'
 ref: gringo-enchiladas
-image: false
-time: 100
+layout: recipe
+time: 1 hr 40 min
 category: Mexican
-tags:
-  - dinner
-ingredients:
-  - name: large chicken breast havles
-    amount: 4
-    unit: 
-  - name: Cream of Chicken Soup
-    amount: 2
-    unit: 10oz cans
-  - name: green chili peppers diced or chopped
-    amount: 1
-    unit: small can
-  - name: sour cream
-    amount: 1
-    unit: pint
-  - name: green onions (sliced - tops included)
-    amount: 3-4
-    unit: 
-  - name: shredded Monterey Jack cheese
-    amount: 2
-    unit: cups
-  - name: tortillas
-    amount: 12
-    unit: 
-  - name: shredded cheddar cheese
-    amount: 2
-    unit: cups
-
+tags: ['dinner']
 ---
+
+# Ingredients:
+- [ ] 4 large chicken breast halves
+- [ ] 2 10oz cans Cream of Chicken Soup
+- [ ] 1 small can green chili peppers diced or chopped
+- [ ] 1 pint sour cream
+- [ ] 3-4 green onions (sliced - tops included)
+- [ ] 2 cups shredded Monterey Jack cheese
+- [ ] 12 tortillas
+- [ ] 2 cups shredded cheddar cheese
 
 # Instructions
 1. Cook chicken breasts, skin, bone, and dice; set aside. (May be done in advance and refrigerated, covered).
@@ -43,4 +26,4 @@ ingredients:
 
 ---
 
-*NOTE: Casseroles can be made a day or two ahead (this adds to flavor) and refrigerated, uncooked, until the time to bake. You can also use canned chicken.
+*NOTE: Casseroles can be made a day or two ahead (this adds to flavor) and refrigerated, uncooked, until the time to bake. You can also use canned chicken.*
