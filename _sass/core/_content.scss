@@ -149,6 +149,15 @@
     list-style: disc;
   }
 
+    /* Remove the disc from list items containing checkboxes or radio buttons */
+    ul li:has(input[type="checkbox"]),
+    ul li:has(input[type="radio"]),
+    ol li:has(input[type="checkbox"]),
+    ol li:has(input[type="radio"]) {
+        list-style-type: none; /* Or style them differently */
+        padding-right: 0.5rem;
+    }
+
   blockquote:not(.sidebar) {
     @include ctnr(full);
 
