@@ -7,7 +7,7 @@ category: Dessert
 tags: ['scotcheroos']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 1/2 cup sugar
 - [ ] 1/2 cup white Karo
 - [ ] 1 cup butterscotch chips

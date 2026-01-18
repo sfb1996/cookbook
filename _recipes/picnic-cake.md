@@ -7,7 +7,7 @@ category: Dessert
 tags: []
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 1 cup chopped dates (yes, dates)
 - [ ] 1 and 1/2 cup hot water
 - [ ] 1 tsp baking soda

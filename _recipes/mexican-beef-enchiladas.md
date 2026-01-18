@@ -6,7 +6,7 @@ time: 8 hr 20 min
 category: Mexican
 tags: ['meat', 'dinner', 'crockpot']
 ---
-# ingredients:
+# Ingredients:
 - [ ] 2-3 lbs boneless chuck or sirloin beef roast
 - [ ] 2 cups low sodium beef broth
 - [ ] 2 cups low sodium beef broth

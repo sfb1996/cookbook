@@ -7,7 +7,7 @@ category: American
 tags: ['dinner']
 ---
 
-# ingredients:
+# Ingredients:
  - [ ] 6 chicken breast halves
  - [ ] 2 10oz packages broccoli
  - [ ] 1 can Cream of Chicken soup

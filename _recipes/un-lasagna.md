@@ -7,7 +7,7 @@ category: Italian
 tags: ['dinner', 'freezer']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 1 1/2 lb ground beef
 - [ ] 1/2 lb sausage
 - [ ] 40 oz spaghetti sauce

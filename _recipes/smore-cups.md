@@ -6,7 +6,7 @@ time: 25 min
 category: Dessert
 tags: []
 ---
-# ingredients:
+# Ingredients:
 - [ ] 7 whole graham crackers finely crushed
 - [ ] 1/4 cup powdered sugar
 - [ ] 6 tbsp melted butter

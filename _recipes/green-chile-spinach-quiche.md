@@ -7,7 +7,7 @@ category: American
 tags: ['dinner']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 1/2 cup all-purpose flour
 - [ ] 1 tsp baking powder
 - [ ] 1 tsp salt

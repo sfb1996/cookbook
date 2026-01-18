@@ -9,7 +9,7 @@ tags: ['dinner', 'meat']
 
 *This Tuscan Pasta only takes 20 minutes to throw together and makes the perfect freezer meal. With a creamy, cheesy garlic sauce, sun-dried tomatoes, and grilled chicken, it will become a family favorite in no time.*
 
-# ingredients:
+# Ingredients:
 - [ ] 16 oz bow tie pasta (1 box)
 - [ ] 4 tbsp butter
 - [ ] 4 cloves garlic (finely minced or pressed through a garlic press)

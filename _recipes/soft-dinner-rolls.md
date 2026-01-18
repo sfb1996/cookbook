@@ -7,7 +7,7 @@ category: American
 tags: ['bread']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 1/4 cup unsalted butter (plus more for coating dish and topping rolls)
 - [ ] 1/4 cup granulated sugar
 - [ ] 1 tsp kosher salt

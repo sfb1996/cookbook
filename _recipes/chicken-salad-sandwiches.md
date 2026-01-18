@@ -7,7 +7,7 @@ category: American
 tags: [meat, 'dinner']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 3 cups cubed or shredded chicken (rotisserie chicken works great)
 - [ ] 2 stalks celery chopped
 - [ ] 2/3 cup pecan halves (or chopped)

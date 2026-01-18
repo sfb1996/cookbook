@@ -7,7 +7,7 @@ category: American
 tags: ['dinner']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 4 15 oz cans light red kidney beans (water included)
 - [ ] 2 onions
 - [ ] 2 stalks celery (chopped)

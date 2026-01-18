@@ -7,7 +7,7 @@ category: Greek
 tags: ['dinner']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 5-6 chicken thighs
 - [ ] 1/2 cup avocado oil or olive oil
 - [ ] 2 tbsp lemon juice

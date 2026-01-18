@@ -9,7 +9,7 @@ tags: ['andes', 'mint']
 
 *Makes 4 dozen cookies*
 
-# ingredients:
+# Ingredients:
 - [ ] 3/4 cup butter
 - [ ] 1 1/2 cup light brown sugar
 - [ ] 2 tbsp water

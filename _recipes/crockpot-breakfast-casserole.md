@@ -7,7 +7,7 @@ category: American
 tags: ['dinner', 'crockpot']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 32 oz Frozen Hash Brown Potatoes
 - [ ] 1 lb bacon (sausage or ham - cooked, crumbed or diced)
 - [ ] 2 cups shredded sharp cheddar cheese (about 8oz for 2 cups)

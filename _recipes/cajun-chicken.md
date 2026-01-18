@@ -8,7 +8,7 @@ category: American
 tags: ['dinner']
 ---
 
-# ingredients:
+# Ingredients:
 
 *Served over rice*
 

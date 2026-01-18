@@ -7,7 +7,7 @@ category: American
 tags: [meat, 'dinner']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 4 (6-oz) bone-in, skin-on chicken thighs
 - [ ] 1 tsp kosher salt
 - [ ] 1/4 tsp freshly ground black pepper

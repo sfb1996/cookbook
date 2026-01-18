@@ -7,7 +7,7 @@ category: Dessert
 tags: []
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 3/4 cup softened butter (buy the good stuff) (melted is okay)
 - [ ] 1/2 cup sugar
 - [ ] 3/4 cup brown sugar (packed)

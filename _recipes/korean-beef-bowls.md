@@ -7,7 +7,7 @@ category: Asian
 tags: [meat, 'dinner']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 1 tbsp sesame oil
 - [ ] 1 lb lean ground beef
 - [ ] 3 cloves garlic, minced

@@ -7,7 +7,7 @@ category: American
 tags: ['dinner']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 1 tbsp olive oil
 - [ ] 1 small yellow onion (chopped - about 1/2 cup)
 - [ ] 2 cloves garlic (finely minced - or aobut 1 1/2 tsp garlic powder)

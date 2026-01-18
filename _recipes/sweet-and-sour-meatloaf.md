@@ -7,7 +7,7 @@ category: American
 tags: ['dinner']
 ---
 
-# ingredients:
+# Ingredients:
 - [ ] 1 1/2 lbs ground beef
 - [ ] 1 cup dry bread crumbs
 - [ ] 1 tsp salt
