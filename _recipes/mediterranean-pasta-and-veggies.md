@@ -22,12 +22,12 @@ tags: ['dinner']
 - [ ] 1⁄2 teaspoon black pepper
 
 ## For the sauce
-- [ ] 1⁄4 cup olive oil
-- [ ] 1⁄4 cup parmesan, *grated*
-- [ ] 1 garlic clove, *minced*
-- [ ] 1 teaspoon dried Italian herbs 
-- [ ] 1⁄2 teaspoon salt
-- [ ] 1⁄2 teaspoon pepper
+- [ ] 1⁄2 cup olive oil
+- [ ] 1⁄2 cup parmesan, *grated*
+- [ ] 2 garlic clove, *minced*
+- [ ] 2 teaspoon dried Italian herbs 
+- [ ] 1 teaspoon salt
+- [ ] 1 teaspoon pepper
 
 ## To serve
 - [ ] additional parmesan
