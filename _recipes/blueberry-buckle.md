@@ -29,7 +29,6 @@ tags: []
 1. Spray a 9-in square baking pan with non-stick spray. Set aside.
 2. Preheat the oven to 375.
 
-<br/>
 **For Batter**
 
 {:start="3"}
@@ -39,13 +38,11 @@ tags: []
 6. Alternate adding combined dry ingredients and milk to butter mixture in 4 batches.
 7. Turn into prepared pan and top evenly with blueberries
 
-<br/>
 **For Topping**
 
 {:start="8"}
 8. Combine butter, sugar, flour, and cinnamon until crumbly.
 9. Sprinkle over blueberries
 
-<br/>
 {:start="10"}
 10. Bake for 45 minutes or until cake tests done.
