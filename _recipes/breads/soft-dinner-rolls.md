@@ -3,8 +3,8 @@ title: Soft Dinner Rolls
 ref: soft-dinner-rolls
 layout: recipe
 time: 3 hr 45 min
-category: American
-tags: ['bread']
+category: Bread
+tags: []
 ---
 
 # Ingredients:

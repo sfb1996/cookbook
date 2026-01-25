@@ -4,8 +4,8 @@ layout: recipe
 ref: cias-rolls
 layout: recipe
 time: 4 hr
-category: American
-tags: ['bread', 'cinnamon rolls']
+category: Bread
+tags: ['cinnamon rolls']
 ---
 
 *Makes 4 dozen rolls*
