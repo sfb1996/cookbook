@@ -3,8 +3,8 @@ title: 'White Chicken Chili'
 ref: white-chicken-chili
 layout: recipe
 time: 
-category: American
-tags: ['dinner']
+category: Dinner
+tags: ['American']
 ---
 
 # Ingredients:

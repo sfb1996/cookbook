@@ -4,8 +4,8 @@ layout: recipe
 ref: amish-breakfast-casserole
 layout: recipe
 time: 1 hr
-category: American
-tags: ['dinner']
+category: Dinner
+tags: ['American']
 ---
 
 # Ingredients

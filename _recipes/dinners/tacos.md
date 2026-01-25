@@ -3,8 +3,8 @@ title: 'Tacos'
 ref: tacos
 layout: recipe
 time: 
-category: Mexican
-tags: ['No Recipe', 'dinner']
+category: Dinner
+tags: ['No Recipe', 'Mexican']
 ---
 
 Coming Soon!

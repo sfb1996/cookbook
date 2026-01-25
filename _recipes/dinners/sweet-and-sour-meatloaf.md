@@ -3,8 +3,8 @@ title: 'Sweet and Sour Meatloaf'
 ref: sweet-and-sour-meatloaf
 layout: recipe
 time: 1 hr 10 min
-category: American
-tags: ['dinner']
+category: Dinner
+tags: ['American']
 ---
 
 # Ingredients:

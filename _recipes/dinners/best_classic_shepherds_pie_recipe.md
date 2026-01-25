@@ -4,8 +4,8 @@ layout: recipe
 ref: best-classic-shepherds-pie-recipe
 layout: recipe
 time: 1 hr 10 min
-category: American
-tags: ['dinner']
+category: Dinner
+tags: ['American']
 ---
 
 # Ingredients

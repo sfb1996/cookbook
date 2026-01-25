@@ -3,8 +3,8 @@ title: 'Mediterranean Pasta and Veggies'
 ref: mediterranean-pasta-and-vegies
 layout: recipe
 time: 45 min
-category: Greek
-tags: ['dinner']
+category: Dinner
+tags: []
 ---
 
 # Ingredients

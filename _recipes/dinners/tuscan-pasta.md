@@ -3,8 +3,8 @@ title: 'Tuscan Pasta'
 ref: tuscan-pasta
 layout: recipe
 time: 20 min
-category: Italian
-tags: ['dinner', 'meat']
+category: Dinner
+tags: ['Italian', 'meat']
 ---
 
 *This Tuscan Pasta only takes 20 minutes to throw together and makes the perfect freezer meal. With a creamy, cheesy garlic sauce, sun-dried tomatoes, and grilled chicken, it will become a family favorite in no time.*

@@ -3,8 +3,8 @@ title: 'Chicken Salad Sandwiches'
 ref: chicken-salad-sandwiches
 layout: recipe
 time: 15 min
-category: American
-tags: [meat, 'dinner']
+category: Dinner
+tags: [meat, 'American']
 ---
 
 # Ingredients:

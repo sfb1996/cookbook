@@ -17,6 +17,24 @@ layout: default
           <span class="search-highlight form-highlight"></span>
         </label>
       </fieldset>
+      <fieldset class="searchbar-group">
+        <label for="dinner">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="dinner" value="dinner">
+          <span class="searchbar-button">Dinners</span>
+        </label>
+        <label for="dessert">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="dessert" value="dessert">
+          <span class="searchbar-button">Desserts</span>
+        </label>
+        <label for="bread">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="bread" value="bread">
+          <span class="searchbar-button">Breads</span>
+        </label>
+        <label for="snack">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="snack" value="snack">
+          <span class="searchbar-button">Snacks</span>
+        </label>
+    </fieldset>
    </form>
 
    <script>
@@ -25,6 +43,11 @@ layout: default
         input = document.getElementById("js-search");
         ul = document.getElementById("recipeList");
         li = ul.getElementsByTagName("li");
+        dinner_checked = document.getElementById("dinner");
+        dessert_checked = document.getElementById("dessert");
+        bread_checked = document.getElementById("bread");
+        snack_checked = document.getElementById("snack");
+        something_checked = dinner_checked.checked || dessert_checked.checked || bread_checked.checked || snack_checked.checked;
 
         var filters = input.value.toLowerCase().split(/\s+/).filter(
             x => { return "".indexOf(x) == -1; }
@@ -38,6 +61,7 @@ layout: default
             var article = li[i].getElementsByTagName("article")[0];
             var a = article.getElementsByTagName("a")[0];
             var txtValue = a.title.toLowerCase();
+            var category = a.getElementsByTagName("div")[0].getElementsByTagName("div")[0].getElementsByTagName("span")[0].textContent.toLowerCase();
 
             var j;
             var count = 0;
@@ -68,7 +92,6 @@ layout: default
                 }
 
                 // find in category
-                var category = a.getElementsByTagName("div")[0].getElementsByTagName("div")[0].getElementsByTagName("span")[0].textContent.toLowerCase();
                 if( category.indexOf(filter) > -1) {
                     found = true;
                 }
@@ -83,6 +106,22 @@ layout: default
                 displayStyle = "";
             }
 
+            // if nothing is checked, we want to display all of them.
+            // otherwise, we'll turn off the ones that aren't checked.
+            if( something_checked ) {
+                if( !dinner_checked.checked && dinner_checked.value.indexOf(category) > -1 ) {
+                    displayStyle = "none";
+                }
+                if( !bread_checked.checked && bread_checked.value.indexOf(category) > -1 ) {
+                    displayStyle = "none";
+                }
+                if( !snack_checked.checked && snack_checked.value.indexOf(category) > -1 ) {
+                    displayStyle = "none";
+                }
+                if( !dessert_checked.checked && dessert_checked.value.indexOf(category) > -1 ) {
+                    displayStyle = "none";
+                }
+            }
             li[i].style.display = displayStyle;
             
         }

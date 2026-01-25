@@ -3,8 +3,8 @@ title: 'Gringo Enchiladas'
 ref: gringo-enchiladas
 layout: recipe
 time: 1 hr 40 min
-category: Mexican
-tags: ['dinner']
+category: Dinner
+tags: ['Mexican']
 ---
 
 # Ingredients:

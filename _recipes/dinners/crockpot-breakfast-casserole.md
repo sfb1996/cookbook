@@ -3,8 +3,8 @@ title: Crock Pot Breakfast Casserole
 ref: crockpot-breakfast-casserole
 layout: recipe
 time: 6 hr 20 min
-category: American
-tags: ['dinner', 'crockpot']
+category: Dinner
+tags: ['American', 'crockpot']
 ---
 
 # Ingredients:

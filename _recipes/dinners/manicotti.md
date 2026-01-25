@@ -3,8 +3,8 @@ title: 'Manicotti'
 ref: Manicotti
 layout: recipe
 time: 
-category: Italian
-tags: ['dinner', 'freezer']
+category: Dinner
+tags: ['Italian', 'freezer']
 ---
 
 # Ingredients

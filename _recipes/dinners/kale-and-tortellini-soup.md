@@ -3,8 +3,8 @@ title: 'Kale and Tortellini Soup'
 ref: kale-and-tortellini-soup
 layout: recipe
 time: 45 min
-category: American
-tags: []
+category: Dinner
+tags: ['American']
 ---
 
 # Ingredients

@@ -3,8 +3,8 @@ title: 'Korean Beef Bowls'
 ref: korean-beef-bowls
 layout: recipe
 time: 30 min
-category: Asian
-tags: [meat, 'dinner']
+category: Dinner
+tags: [meat, 'Asian']
 ---
 
 # Ingredients:

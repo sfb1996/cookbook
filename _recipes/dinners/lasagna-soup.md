@@ -3,8 +3,8 @@ title: 'Lasagna Soup'
 ref: lasagna-soup
 layout: recipe
 time: 
-category: Italian
-tags: ['No Recipe', 'dinner']
+category: Dinner
+tags: ['No Recipe', 'Italian']
 ---
 
 Coming Soon!
