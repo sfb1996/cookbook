@@ -55,3 +55,4 @@ color: '#572433'
 collections:
   recipes:
     output: true
+    permalink: /recipes/:title:output_ext/
