@@ -3,7 +3,7 @@ title: "Flour Tortillas"
 layout: recipe
 ref: flour-torillas
 layout: recipe
-time: 4 hr
+time: 30 min
 category: Bread
 tags: []
 ---
