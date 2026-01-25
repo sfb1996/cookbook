@@ -39,27 +39,27 @@ layout: default
 
    <script>
     function dinnerClickedEvent() {
-        document.getElementById("dessert").checked = false;
-        document.getElementById("bread").checked = false;
         document.getElementById("appetizer").checked = false;
+        document.getElementById("bread").checked = false;
+        document.getElementById("dessert").checked = false;
         filterList();
     }
     function dessertClickedEvent() {
-        document.getElementById("dinner").checked = false;
-        document.getElementById("bread").checked = false;
         document.getElementById("appetizer").checked = false;
+        document.getElementById("bread").checked = false;
+        document.getElementById("dinner").checked = false;
         filterList();
     }
     function breadClickedEvent() {
-        document.getElementById("dinner").checked = false;
-        document.getElementById("dessert").checked = false;
         document.getElementById("appetizer").checked = false;
+        document.getElementById("dessert").checked = false;
+        document.getElementById("dinner").checked = false;
         filterList();
     }
     function appetizerClickedEvent() {
-        document.getElementById("dinner").checked = false;
-        document.getElementById("dessert").checked = false;
         document.getElementById("bread").checked = false;
+        document.getElementById("dessert").checked = false;
+        document.getElementById("dinner").checked = false;
         filterList();
     }
     function filterList() {
