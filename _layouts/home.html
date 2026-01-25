@@ -18,26 +18,50 @@ layout: default
         </label>
       </fieldset>
       <fieldset class="searchbar-group">
-        <label for="dinner">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="dinner" value="dinner">
-          <span class="searchbar-button">Dinners</span>
-        </label>
-        <label for="dessert">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="dessert" value="dessert">
-          <span class="searchbar-button">Desserts</span>
+        <label for="appetizer">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="appetizer" value="appetizer" onclick="appetizerClickedEvent()">
+          <span class="searchbar-button">Appetizers</span>
         </label>
         <label for="bread">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="bread" value="bread">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="bread" value="bread" onclick="breadClickedEvent()">
           <span class="searchbar-button">Breads</span>
         </label>
-        <label for="snack">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="snack" value="snack">
-          <span class="searchbar-button">Snacks</span>
+        <label for="dessert">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="dessert" value="dessert" onclick="dessertClickedEvent()">
+          <span class="searchbar-button">Desserts</span>
+        </label>
+        <label for="dinner">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="dinner" value="dinner" onclick="dinnerClickedEvent()">
+          <span class="searchbar-button">Dinners</span>
         </label>
     </fieldset>
    </form>
 
    <script>
+    function dinnerClickedEvent() {
+        document.getElementById("dessert").checked = false;
+        document.getElementById("bread").checked = false;
+        document.getElementById("appetizer").checked = false;
+        filterList();
+    }
+    function dessertClickedEvent() {
+        document.getElementById("dinner").checked = false;
+        document.getElementById("bread").checked = false;
+        document.getElementById("appetizer").checked = false;
+        filterList();
+    }
+    function breadClickedEvent() {
+        document.getElementById("dinner").checked = false;
+        document.getElementById("dessert").checked = false;
+        document.getElementById("appetizer").checked = false;
+        filterList();
+    }
+    function appetizerClickedEvent() {
+        document.getElementById("dinner").checked = false;
+        document.getElementById("dessert").checked = false;
+        document.getElementById("bread").checked = false;
+        filterList();
+    }
     function filterList() {
         var input, ul, li, a, i, displayStyle;
         input = document.getElementById("js-search");
@@ -46,8 +70,8 @@ layout: default
         dinner_checked = document.getElementById("dinner");
         dessert_checked = document.getElementById("dessert");
         bread_checked = document.getElementById("bread");
-        snack_checked = document.getElementById("snack");
-        something_checked = dinner_checked.checked || dessert_checked.checked || bread_checked.checked || snack_checked.checked;
+        appetizer_checked = document.getElementById("appetizer");
+        something_checked = dinner_checked.checked || dessert_checked.checked || bread_checked.checked || appetizer_checked.checked;
 
         var filters = input.value.toLowerCase().split(/\s+/).filter(
             x => { return "".indexOf(x) == -1; }
@@ -115,7 +139,7 @@ layout: default
                 if( !bread_checked.checked && bread_checked.value.indexOf(category) > -1 ) {
                     displayStyle = "none";
                 }
-                if( !snack_checked.checked && snack_checked.value.indexOf(category) > -1 ) {
+                if( !appetizer_checked.checked && appetizer_checked.value.indexOf(category) > -1 ) {
                     displayStyle = "none";
                 }
                 if( !dessert_checked.checked && dessert_checked.value.indexOf(category) > -1 ) {

@@ -4,7 +4,7 @@ layout: recipe
 ref: spinach-dip-with-pitas
 layout: recipe
 time: 40 min
-category: Snack
+category: Appetizer
 tags: []
 ---
 
