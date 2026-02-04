@@ -10,7 +10,7 @@ tags: ['American', 'crockpot', 'instant pot']
 # Ingredients:
 - [ ] 1/2 cup water
 - [ ] 4 chicken breasts
-- [ ] 2 package Good Seasons Italian Dressing Mix
+- [ ] 1 package Good Seasons Italian Dressing Mix
 - [ ] 8 oz cream cheese
 - [ ] 1 can cream of chicken soup
 - [ ] rice, noodles or potatoes
