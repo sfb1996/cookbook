@@ -9,19 +9,25 @@ tags: ['American']
 ---
 
 # Ingredients
-
+## Vegetable Step
 - [ ] 3 Tbs butter
 - [ ] 6 stalks celery, diced
 - [ ] 6 carrots, sliced
 - [ ] 1.5 onions, diced
 - [ ] 3 red potatoes, diced
+
+## Broth Step
 - [ ] 1 tbsp minced garlic
 - [ ] Salt and pepper to taste
 - [ ] 3/8 cup flour
 - [ ] 3 cups chicken broth
 - [ ] 1.5 8-oz. package cream cheese
+
+## Chicken Step
 - [ ] 3 cups rotisserie chicken, shredded
 - [ ] 3/4 cup frozen peas
+
+## Pastry Step
 - [ ] 1 package puff pastry (~17.3 oz.), thawed
 - [ ] 1 egg
 - [ ] 2 Tbsp fresh parsley, roughly chopped
