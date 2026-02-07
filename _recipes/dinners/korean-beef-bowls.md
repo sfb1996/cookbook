@@ -8,14 +8,19 @@ tags: [meat, 'Asian']
 ---
 
 # Ingredients:
+## Beef
 - [ ] 1 tbsp sesame oil
 - [ ] 1 lb lean ground beef
 - [ ] 3 cloves garlic, minced
+
+## Sauce
 - [ ] 1/2 cup light brown sugar
 - [ ] 1/4 cup soy sauce
 - [ ] 1/4 tsp ground ginger
 - [ ] salt and pepper
 - [ ] 1/2 - 1 tsp crushed red pepper
+
+## Sides / Toppings
 - [ ] 2 - 3 cups cooked white rice
 - [ ] 1 bunch green onions, diced
 
