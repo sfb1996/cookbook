@@ -2,7 +2,7 @@
 title: Pumpkin Chocolate Chip Muffins
 ref: pumpkin-chocolate-chip-muffins
 layout: recipe
-time: 
+time: 30 min
 category: Dessert
 tags: []
 ---
