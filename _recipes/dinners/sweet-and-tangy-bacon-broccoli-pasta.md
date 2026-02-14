@@ -5,7 +5,7 @@ ref: sweet-and-tangy-bacon-broccoli-pasta
 layout: recipe
 time: 40 min
 category: Dinner
-tags: ['American', 'Addie']
+tags: ['American']
 ---
 
 # Ingredients
