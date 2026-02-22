@@ -164,14 +164,14 @@
     &:first-of-type {
       counter-reset: steps;
     }
+  }
 
+    > ol > li {
+        position: relative;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
 
-    li {
-      position: relative;
-      margin-top: 1rem;
-      margin-bottom: 1rem;
-
-      &::before {
+        &::before {
         @include font(header4);
 
         position: absolute;
@@ -184,9 +184,8 @@
         line-height: 1.25;
         content: counter(steps);
         counter-increment: steps;
-      }
+        }
     }
-  }
 
   figure:not(.gallery-item) {
     position: relative;
