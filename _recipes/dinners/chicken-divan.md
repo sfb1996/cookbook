@@ -12,7 +12,7 @@ tags: ['American']
  - [ ] 3 chicken breasts
  - [ ] 2 10oz packages broccoli
 
- ## Sauce
+## Sauce
  - [ ] 1 can Cream of Chicken soup
  - [ ] 2/3 cup mayonnaise
  - [ ] 1/3 cup evaporated milk
@@ -20,9 +20,11 @@ tags: ['American']
  - [ ] 1 tsp lemon juice
  - [ ] 1/2 tsp curry powder
 
- ## Topping
+## Topping
  - [ ] 1/2 cup fine dry break crumbs
  - [ ] 1 tbsp soft margarine
+
+<br>
 
 # Instructions
 
