@@ -10,7 +10,7 @@ tags: ['American']
 # Ingredients:
 - [ ] 1 tbsp olive oil
 - [ ] 1 small yellow onion (chopped - about 1/2 cup)
-- [ ] 2 cloves garlic (finely minced - or aobut 1 1/2 tsp garlic powder)
+- [ ] 2 cloves garlic (finely minced - or about 1 1/2 tsp garlic powder)
 - [ ] 2 1/2 cups low-sodium chicken broth
 - [ ] 2 4 oz cans diced green chilies
 - [ ] 1 1/2 tsp ground cumin
@@ -59,4 +59,4 @@ Cook chili up to step 5. Allow to cool and then freeze for up to 3 months (freez
 
 ---
 
-Source: [tastesbetterfromsratch.com](https://tastesbetterfromscratch.com/creamy-white-chicken-chili/)
+Source: [tastesbetterfromscratch.com](https://tastesbetterfromscratch.com/creamy-white-chicken-chili/)

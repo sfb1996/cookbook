@@ -25,6 +25,7 @@ tags: ['American']
 
 
 1. Cook bacon and transfer to a plate lined with paper towels. Reserve 2 Tbs bacon grease to use in the dressing.
+   - *Tip: We cook the bacon by putting it on a cookie sheet in a cold over, turning the oven on to 400, and cooking for about 30 minutes (including oven warm-up time).*
 2. Cook 6 oz. bowtie pasta noodles. Once cooked, strain and run cold water over the noodles until cool.
 3. Toss chopped pecans into a large skillet and sprinkle a bit of salt over the top. Toast over medium high heat until pecans change color and smell fragrant (2-3 minutes).
 4. To a large bowl, add broccoli, grapes, and red onion.
