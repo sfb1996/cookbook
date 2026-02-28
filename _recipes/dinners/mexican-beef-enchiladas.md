@@ -9,7 +9,6 @@ tags: ['meat', 'Mexican', 'crockpot']
 # Ingredients:
 - [ ] 2-3 lbs boneless chuck or sirloin beef roast
 - [ ] 2 cups low sodium beef broth
-- [ ] 2 cups low sodium beef broth
 - [ ] 2 tbsp apple cider vinegar
 - [ ] 1 cup salsa (red or green)
 - [ ] 1 tsp ground cumin
@@ -19,7 +18,7 @@ tags: ['meat', 'Mexican', 'crockpot']
 - [ ] 1 tsp salt
 - [ ] 1/2 tsp pepper
 - [ ] 2 tbsp cornstarch or flower
-- [ ] 10 6- or 7-inch flour or corn tortillas
+- [ ] 12 6- or 7-inch flour or corn tortillas
 - [ ] 1 cup shredded sharp cheddar cheese
 - [ ] 1 1/2 cups shredded Monterey Jack Cheese
 
