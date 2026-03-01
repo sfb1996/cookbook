@@ -17,7 +17,7 @@ tags: ['meat', 'Mexican', 'crockpot']
 - [ ] 1 tsp garlic powder
 - [ ] 1 tsp salt
 - [ ] 1/2 tsp pepper
-- [ ] 2 tbsp cornstarch or flower
+- [ ] 2 tbsp cornstarch or flour
 - [ ] 12 6- or 7-inch flour or corn tortillas
 - [ ] 1 cup shredded sharp cheddar cheese
 - [ ] 1 1/2 cups shredded Monterey Jack Cheese

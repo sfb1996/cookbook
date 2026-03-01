@@ -1,5 +1,5 @@
 ---
-title: "Bannana Bread"
+title: "Banana Bread"
 layout: recipe
 ref: bannana-bread
 layout: recipe
