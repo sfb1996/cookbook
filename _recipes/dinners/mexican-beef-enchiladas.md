@@ -24,17 +24,13 @@ tags: ['meat', 'Mexican', 'crockpot']
 
 # Instructions
 1. Put the beef roast in the cooker of choice. Whisk together the broth, vinegar, salsa, cumin, chili powder, onion powder, garlic powder, salt and pepper. Pour over the roast. Cook according to the instructions below
-
-**For the slow cooker**: use a 4- or 5-quart slow cooker, cover the slow cooker, and cook on low for 8-10 hours until the beef is tender and shreds easily
-
-**For the Instant Pot/Electric Pressure Cooker**: use a 6-quart pressure cooker and cook on high for 60 minutes. Let the pressure naturally release for 15 minutes (or all the way). Release the remaining pressure
+- **For the slow cooker**: use a 4- or 5-quart slow cooker, cover the slow cooker, and cook on low for 8-10 hours until the beef is tender and shreds easily
+- **For the Instant Pot/Electric Pressure Cooker**: use a 6-quart pressure cooker and cook on high for 60 minutes. Let the pressure naturally release for 15 minutes (or all the way). Release the remaining pressure
 
 2. Remove the roast and place in a large bowl or shallow pan (like 9x13-inch pan). Shred into bite-sized pieces with two forks.
 3. Bring the liquid leftover from the rost to a simmer.
-
-**For the slow cooker**: pour the liquid into a saucepan
-
-**For the Instant Pot/Electric Pressure Cooker**: turn the instant pot to sauté
+- **For the slow cooker**: pour the liquid into a saucepan
+- **For the Instant Pot/Electric Pressure Cooker**: turn the instant pot to sauté
 
 4. In a small bowl, whisk together the cornstarch (or flour) with about 2-3 tablespoons of water (use a bit more water if using flour). Add the slurry to the simmering liquid, whisking constantly, and cook, stirring constantly, until the mixture is thickened slightly (4-5 minutes). *Add additional salt and pepper to taste, if needed*.
 5. Pour about 1/2 cup sauce in with the beef and toss. Use as desired (instructions for enchiladas below).
