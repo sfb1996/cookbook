@@ -22,14 +22,12 @@ tags: ['American']
 - [ ] 1 1/2 cups chicken broth
 - [ ] 3/4 cup heavy cream (can sub half-and-half)
 - [ ] 1 tbsp honey
-- [ ] 2 tsp hot sauce
+- [ ] 1 tsp hot sauce
 - [ ] 2 tsp Cajun seasoning
 - [ ] 1 tsp brown sugar (light recommended)
 - [ ] 1/2 tsp mustard powder
 - [ ] 1/2 tsp oregano
-- [ ] 1 pinch cayenne pepper
-- [ ] 1 pinch red pepper flakes
-- [ ] 10 oz Rotel diced tomatoes with green chilies (juice reserved)
+- [ ] 1 can (10 oz) Rotel diced tomatoes with green chilies (juice reserved)
 - [ ] 3 tbsp flour
 - [ ] 3 tbsp butter
 - [ ] 3 cloves garlic (minced)
@@ -71,7 +69,7 @@ tags: ['American']
 
 **Cheese**: Cheddar Jack, Monterey Jack, Cheddar, and Mozzarella are all great options for this, I like to use a combination of cheeses. Shred it from a block, packaged shredded cheese doesn’t melt quite as well. If using mozzarella, use low moisture/whole milk.
 
-**Heat Level**: For less heat, use just 1 tsp. of hot sauce and omit the cayenne/red pepper flakes. You can also use regular diced tomatoes instead of Rotel with green chilies. 
+**Heat Level**: For more heat, add an extra teaspoon of hot sauce, a pinch of cayenne pepper, and/or a pinch of red pepper flakes.
 
 **Additions**: Black beans and/or corn can also be added to this dish, you can add them when the tomatoes are added.
 
