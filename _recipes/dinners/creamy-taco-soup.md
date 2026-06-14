@@ -13,12 +13,12 @@ tags: ['American', 'Addie']
 - [ ] 1 tbsp oil of choice
 - [ ] 1 small onion, diced
 - [ ] 2-3 cloves garlic, minced (I use powder)
-- [ ] 1 green pepper, diced + 1 red pepper, diced (or more)
-- [ ] 1 (10 oz) can Rotel diced tomatoes + 1 can diced tomatoes, OR 2 cans diced tomatoes + 1 can green chilies (chopped)
-- [ ] 2 (8 oz) pkg cream cheese
-- [ ] 3-4 Tbsp taco seasoning (to taste)
+- [ ] 2 bell peppers, diced (any color)
+- [ ] 1 (10 oz) can Rotel diced tomatoes (+1 can diced totatoes if desired)
+- [ ] 1 (8 oz) pkg cream cheese
+- [ ] 2 Tbsp taco seasoning, or 1 packet (to taste)
 - [ ] Salt and pepper to taste
-- [ ] 4 cups beef broth (1.5 cups)
+- [ ] 1.5-2 cups beef broth
 
 # Instructions
 1. Add oil to a large pot or dutch oven. Brown beef, onion, and garlic over medium-high heat for 7-8 minutes or until the ground beef is browned through.
