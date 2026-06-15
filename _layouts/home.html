@@ -19,59 +19,64 @@ layout: default
       </fieldset>
       <fieldset class="searchbar-group">
         <label for="appetizer">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="appetizer" value="appetizer" onclick="appetizerClickedEvent()">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="appetizer" onclick="filterButtonClickedEvent('appetizer')">
           <span class="searchbar-button">Appetizers</span>
         </label>
         <label for="bread">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="bread" value="bread" onclick="breadClickedEvent()">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="bread" onclick="filterButtonClickedEvent('bread')">
           <span class="searchbar-button">Breads</span>
         </label>
+        <label for="breakfast">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="breakfast" onclick="filterButtonClickedEvent('breakfast')">
+          <span class="searchbar-button">Breakfasts</span>
+        </label>
         <label for="dessert">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="dessert" value="dessert" onclick="dessertClickedEvent()">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="dessert" onclick="filterButtonClickedEvent('dessert')">
           <span class="searchbar-button">Desserts</span>
         </label>
         <label for="dinner">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="dinner" value="dinner" onclick="dinnerClickedEvent()">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="dinner" onclick="filterButtonClickedEvent('dinner')">
           <span class="searchbar-button">Dinners</span>
         </label>
     </fieldset>
    </form>
 
    <script>
-    function dinnerClickedEvent() {
-        document.getElementById("appetizer").checked = false;
-        document.getElementById("bread").checked = false;
-        document.getElementById("dessert").checked = false;
+
+    const buttons = [
+        "appetizer",
+        "bread",
+        "breakfast",
+        "dessert",
+        "dinner"
+    ].map(id => document.getElementById(id));
+
+    function filterButtonClickedEvent(button_text) {
+        
+
+        for( let i = 0; i < buttons.length; i++ ) {
+            button = buttons[i];
+
+            // the button API will flip the button being clicked
+            // we just need to worry about making the rest of them
+            // falase
+            if( button.id != button_text ) {
+                button.checked = false;
+            }
+        }
         filterList();
     }
-    function dessertClickedEvent() {
-        document.getElementById("appetizer").checked = false;
-        document.getElementById("bread").checked = false;
-        document.getElementById("dinner").checked = false;
-        filterList();
-    }
-    function breadClickedEvent() {
-        document.getElementById("appetizer").checked = false;
-        document.getElementById("dessert").checked = false;
-        document.getElementById("dinner").checked = false;
-        filterList();
-    }
-    function appetizerClickedEvent() {
-        document.getElementById("bread").checked = false;
-        document.getElementById("dessert").checked = false;
-        document.getElementById("dinner").checked = false;
-        filterList();
-    }
+
     function filterList() {
         var input, ul, li, a, i, displayStyle;
         input = document.getElementById("js-search");
         ul = document.getElementById("recipeList");
         li = ul.getElementsByTagName("li");
-        dinner_checked = document.getElementById("dinner");
-        dessert_checked = document.getElementById("dessert");
-        bread_checked = document.getElementById("bread");
-        appetizer_checked = document.getElementById("appetizer");
-        something_checked = dinner_checked.checked || dessert_checked.checked || bread_checked.checked || appetizer_checked.checked;
+        something_checked = false;
+        for( let i = 0; i < buttons.length; i++ ) {
+            button = buttons[i];
+            something_checked = something_checked || button.checked;
+        }
 
         var filters = input.value.toLowerCase().split(/\s+/).filter(
             x => { return "".indexOf(x) == -1; }
@@ -133,17 +138,11 @@ layout: default
             // if nothing is checked, we want to display all of them.
             // otherwise, we'll turn off the ones that aren't checked.
             if( something_checked ) {
-                if( !dinner_checked.checked && dinner_checked.value.indexOf(category) > -1 ) {
-                    displayStyle = "none";
-                }
-                if( !bread_checked.checked && bread_checked.value.indexOf(category) > -1 ) {
-                    displayStyle = "none";
-                }
-                if( !appetizer_checked.checked && appetizer_checked.value.indexOf(category) > -1 ) {
-                    displayStyle = "none";
-                }
-                if( !dessert_checked.checked && dessert_checked.value.indexOf(category) > -1 ) {
-                    displayStyle = "none";
+                for( let i = 0; i < buttons.length; i++ ) {
+                    button = buttons[i];
+                    if( !button.checked && button.id.indexOf(category) > -1 ) {
+                        displayStyle = "none";
+                    }
                 }
             }
             li[i].style.display = displayStyle;
