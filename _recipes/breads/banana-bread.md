@@ -1,7 +1,7 @@
 ---
 title: "Banana Bread"
 layout: recipe
-ref: bannana-bread
+ref: banana-bread
 layout: recipe
 time: 1 hr
 category: Bread
