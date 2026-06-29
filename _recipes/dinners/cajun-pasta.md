@@ -28,7 +28,7 @@ tags: ['American']
 2. Season chicken with salt and pepper and brown in olive oil over medium high heat.
 3. Add sausage and continue to cook until lightlv browned.
 4. Stir in garlic and cook for for about two minutes.
-5. Add chicken broth, heavv cream, dried
+5. Add chicken broth, heavy cream, dried
 pasta and cajun seasoning to pot.
 6. Stir together and bring to a simmer over medium high heat.
 7. Reduce heat to low and let cook covered for 15-20 minutes, or until pasta is tender
