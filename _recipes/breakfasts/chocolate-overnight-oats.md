@@ -10,12 +10,12 @@ tags: []
 
 
 # Ingredients
-- [ ] 1 cup milk
-- [ ] 2 tablespoon cocoa powder
-- [ ] 2 tablespoon maple syrup
-- [ ] 1 cup rolled oats
-- [ ] 1 tablespoon chia seeds
-- [ ] 2 tablespoon chocolate chips
+- [ ] 3/4 cup milk
+- [ ] 1.5 tablespoon cocoa powder
+- [ ] 1.5 tablespoon maple syrup
+- [ ] 3/4 cup rolled oats
+- [ ] 3/4 tablespoon chia seeds
+- [ ] 1.5 tablespoon chocolate chips
 
 # Instructions
 ## Prepare the liquid part:
