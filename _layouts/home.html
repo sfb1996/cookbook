@@ -51,15 +51,20 @@ layout: default
         "dinner"
     ].map(id => document.getElementById(id));
 
+
     function filterButtonClickedEvent(button_text) {
         
 
         for( let i = 0; i < buttons.length; i++ ) {
             button = buttons[i];
 
-            // the button API will flip the button being clicked
-            // we just need to worry about making the rest of them
-            // falase
+            /* 
+             * We only want one filter to be allowed active at a time
+             * (like a radio button). the button API will flip the 
+             * button being clicked we just need to worry about making
+             * the rest of them false.
+            */
+
             if( button.id != button_text ) {
                 button.checked = false;
             }
