@@ -30,7 +30,7 @@ tags: ['Mexican']
 2. Add green salsa, lime juice, cumin, chili powder, onion powder and granulated garlic, cilantro and green onions.
 3. Add chicken and cheese and combine well. (You can prepare up to this step ahead of time. Just keep the mixture in the fridge.)
 
-## For the taquitos
+## For the Taquitos
 
 1. Heat oven to 425℉. Line a baking sheet with parchment or spray a baking sheet or foil-lined baking sheet with nonstick spray.
 2. If using corn tortillas, work with a few tortillas at a time and heat in the microwave, wrapped in damp paper towels until they are soft enough to roll without cracking. Usually 20-30 seconds will do it. If using flour tortillas use them at room temperature or warm them slightly in the microwave if they aren't super fresh. If using fresh, uncooked tortillas you can roll them raw.
