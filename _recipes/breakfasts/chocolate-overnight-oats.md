@@ -22,7 +22,7 @@ tags: []
 1. Make the milk base: Combine milk, cocoa powder and maple syrup in a bowl.
 
 ## Add the dry ingredients:
-1. Add the dry ingredients: add the oats and chia seeds. If you’d like, you can add chocolate chips as well, or leave them for the topping. Stir until well combined. Divide the mixture between two jars or ramekins, or leave it in a bowl. Cover and refrigerate overnight.
+1. Add the dry ingredients: add the oats and chia seeds. If you’d like, you can add chocolate chips as well, or leave them for the topping. Stir until well combined. Cover and refrigerate overnight.
 
 ## To serve:
 1. Serve overnight oats in the morning, topped with chocolate chips.
