@@ -49,9 +49,13 @@ tags: ['Swedish']
 
 # Notes
 **Meat:** *a combination of ground beef and ground pork is what traditional Swedish meatball recipes often use; however, ground turkey works great for a lighter meatball.*
+
 **Bread Crumbs:** *you can use any variety of bread crumbs here: panko, storebought, homemade, etc.*
+
 **Nutmeg and Allspice:** *the nutmeg and allspice add a delicious flavor to the meatballs; however, they can be reduced to a pinch of each or omitted completely.*
+
 **Sauce:** *if you want the sauce slightly thicker, increase the flour by another tablespoon.*
+
 **Oven Method:* *place the rolled meatballs on a foil-lined greased baking sheet and bake at 400 degrees for 10 to 15 minutes until cooked through. While the meatballs cook, make the sauce in a saucepan on the stove. Add the cooked meatballs to the sauce immediately out of the oven and serve (or keep warm until serving).*
 
 From [Mel's Kitchen Cafe](https://www.melskitchencafe.com/skillet-swedish-meatballs/)
